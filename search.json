@@ -77,6 +77,13 @@
     "text": "Reproducible analysis workflows\nR and Quarto pipelines that take raw field data through models, figures, and tables to a rendered document, so an analysis can be rerun end to end.\nStatus: ongoing. Link public repositories here."
   },
   {
+    "objectID": "projects.html#interactive-research-framework",
+    "href": "projects.html#interactive-research-framework",
+    "title": "Projects",
+    "section": "Interactive research framework",
+    "text": "Interactive research framework\nA browser-based framework illustrating the bass–crayfish interaction system studied in this dissertation.\nView the framework"
+  },
+  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
@@ -179,6 +186,6 @@
     "href": "contact.html#elsewhere",
     "title": "Contact",
     "section": "Elsewhere",
-    "text": "Elsewhere\n\nORCID\nGoogle Scholar\nLinkedIn\nResearchGate\nGitHub"
+    "text": "Elsewhere\n\nORCID\nGoogle Scholar\nLinkedIn\nResearchGate\nGitHub\nOSU department profile"
   }
 ]
