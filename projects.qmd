@@ -27,3 +27,10 @@ R and Quarto pipelines that take raw field data through models, figures, and tab
 to a rendered document, so an analysis can be rerun end to end.
 
 *Status: ongoing. Link public repositories here.*
+
+## Interactive research framework
+
+A browser-based framework illustrating the bass–crayfish interaction system
+studied in this dissertation.
+
+[View the framework](https://behes2024.github.io/bass-crayfish-framework/)
