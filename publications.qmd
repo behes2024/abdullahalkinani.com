@@ -1,19 +1,14 @@
 ---
 title: "Publications"
-description-meta: "Peer-reviewed publications, manuscripts, and conference presentations by Abdullah Alkinani."
+description-meta: "Peer-reviewed publications and manuscripts by Abdullah Alkinani on fisheries, aquatic invasions, and environmental management."
 bibliography: references.bib
-# To use AFS style, download the .csl from zotero.org/styles into the project
-# folder and uncomment the next line:
-# csl: american-fisheries-society.csl
 nocite: |
   @*
 ---
 
-Everything on this page is generated from a single file, `references.bib`. Export a
-record from Zotero (Better BibTeX), paste it into that file, render, and it appears
-here — no retyping.
+Generated from a single BibTeX file. Every DOI below resolves to the published record.
 
-## Peer-reviewed
+## Published
 
 ::: {#refs}
 :::
