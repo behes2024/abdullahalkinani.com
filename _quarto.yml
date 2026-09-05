@@ -10,7 +10,7 @@ website:
   title: "Abdullah Alkinani"
   description: "Fisheries Scientist and Aquatic Ecologist. PhD Researcher at Oregon State University working on freshwater invasions, predator-prey interactions, and fish-crayfish ecology."
   # Change to https://abdullahalkinani.com once the domain is connected.
-  site-url: https://behes2024.github.io/abdullahalkinani.com
+  site-url: https://abdullahalkinani.org
   favicon: assets/favicon.png
   open-graph: true
   twitter-card: true
