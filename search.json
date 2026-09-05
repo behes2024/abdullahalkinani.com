@@ -1,75 +1,5 @@
 [
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "Two invaders now overlap with a native species in Oregon rivers. Non-native Smallmouth Bass are established predators in the Willamette and Umpqua systems; invasive Ringed Crayfish (Faxonius neglectus) are spreading into the range of native Signal Crayfish (Pacifastacus leniusculus). My dissertation asks whether predation by one non-native species alters the establishment of another — an invasive-on-invasive biotic resistance framing — and what that means for the native crayfish caught in the middle.\nThe three chapters move from what is eaten in the field, to why, to where it matters."
-  },
-  {
-    "objectID": "research.html#research-program",
-    "href": "research.html#research-program",
-    "title": "Research",
-    "section": "",
-    "text": "Two invaders now overlap with a native species in Oregon rivers. Non-native Smallmouth Bass are established predators in the Willamette and Umpqua systems; invasive Ringed Crayfish (Faxonius neglectus) are spreading into the range of native Signal Crayfish (Pacifastacus leniusculus). My dissertation asks whether predation by one non-native species alters the establishment of another — an invasive-on-invasive biotic resistance framing — and what that means for the native crayfish caught in the middle.\nThe three chapters move from what is eaten in the field, to why, to where it matters."
-  },
-  {
-    "objectID": "research.html#dissertation-chapters",
-    "href": "research.html#dissertation-chapters",
-    "title": "Research",
-    "section": "Dissertation chapters",
-    "text": "Dissertation chapters\n\nChapter 1\n\nDiet and trophic position in the field\nResearch question. What do Smallmouth Bass eat across the invasion front, and how much of that diet is crayfish?\nApproach. Field diet analysis paired with stable isotope work (δ¹³C and δ¹⁵N) to resolve trophic position and long-term resource use across sites in the Willamette and Umpqua basins.\nPlaceholder: add a site map, sampling summary, and one representative figure here.\n\n\n\nChapter 2\n\nTemperature and predator–prey interactions\nHow does temperature influence Smallmouth Bass predation on native Signal Crayfish and non-native Ringed Crayfish?\nExperimental design. Controlled predation trials across a temperature gradient spanning conditions measured in the field (approximately 20–27 °C during June fieldwork at stations UMP001–UMP005).\nSpecies studied. Micropterus dolomieu, Faxonius neglectus, Pacifastacus leniusculus.\nTank setup. A three-compartment mesocosm (120 × 40 × 50 cm) separating the predator, a shared arena, and the crayfish, allowing controlled encounters and behavioral observation.\nMethods. Trial protocol, prey selection metrics, behavioral scoring, and the statistical models used to analyze consumption rates.\nPlaceholder: add tank photos, the schematic, and preliminary results here.\nOnce published, this section will carry: publication · dataset · R code · conference presentation · DOI.\n\n\n\nChapter 3\n\nDistribution and the range contact zone\nResearch question. Where do the two crayfish species actually meet, and what stream conditions predict overlap?\nApproach. Spatial stream network modeling and distribution analysis. A national occurrence comparison found no shared hexagonal cells between F. neglectus and P. leniusculus, which makes the study reach a novel contact zone rather than a long-established one.\nPlaceholder: add distribution maps and model output here."
-  },
-  {
-    "objectID": "research.html#methods-and-tools",
-    "href": "research.html#methods-and-tools",
-    "title": "Research",
-    "section": "Methods and tools",
-    "text": "Methods and tools\n\n\n\n\n\n\n\nArea\nTools\n\n\n\n\nField sampling\nDiet collection, temperature loggers, site surveys\n\n\nLaboratory\nStable isotope analysis (δ¹³C, δ¹⁵N), mesocosm predation trials\n\n\nQuantitative\nR, mixed models, spatial stream network models, species distribution modeling\n\n\nReproducibility\nQuarto, Git and GitHub, Zotero with Better BibTeX"
-  },
-  {
-    "objectID": "research.html#field-and-lab-gallery",
-    "href": "research.html#field-and-lab-gallery",
-    "title": "Research",
-    "section": "Field and lab gallery",
-    "text": "Field and lab gallery\nPlaceholder: add photographs to assets/ and insert them here. Images do more for this page than any paragraph will."
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Work that sits alongside the dissertation: analyses, datasets, and tools that are useful on their own."
-  },
-  {
-    "objectID": "projects.html#saudi-fisheries-statistics-analysis",
-    "href": "projects.html#saudi-fisheries-statistics-analysis",
-    "title": "Projects",
-    "section": "Saudi fisheries statistics analysis",
-    "text": "Saudi fisheries statistics analysis\nAnalysis of national fisheries and aquaculture statistics, aimed at describing production trends and their implications for marine resource management and the Blue Economy.\nStatus: in progress. Add outputs, figures, and any resulting manuscript here."
-  },
-  {
-    "objectID": "projects.html#crayfish-distribution-and-contact-zones",
-    "href": "projects.html#crayfish-distribution-and-contact-zones",
-    "title": "Projects",
-    "section": "Crayfish distribution and contact zones",
-    "text": "Crayfish distribution and contact zones\nSpatial analysis of Faxonius neglectus and Pacifastacus leniusculus occurrence records to identify where the two ranges meet.\nStatus: feeds Chapter 3. Add maps and code links here."
-  },
-  {
-    "objectID": "projects.html#reproducible-analysis-workflows",
-    "href": "projects.html#reproducible-analysis-workflows",
-    "title": "Projects",
-    "section": "Reproducible analysis workflows",
-    "text": "Reproducible analysis workflows\nR and Quarto pipelines that take raw field data through models, figures, and tables to a rendered document, so an analysis can be rerun end to end.\nStatus: ongoing. Link public repositories here."
-  },
-  {
-    "objectID": "projects.html#interactive-research-framework",
-    "href": "projects.html#interactive-research-framework",
-    "title": "Projects",
-    "section": "Interactive research framework",
-    "text": "Interactive research framework\nA browser-based framework illustrating the bass–crayfish interaction system studied in this dissertation.\nView the framework"
-  },
-  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "CV",
@@ -119,39 +49,39 @@
     "text": "Service\nAdd peer review, committees, and outreach here."
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "I am open to collaboration on freshwater invasions, predator–prey ecology, and fisheries data analysis, and to conversations about marine and freshwater resource management.\nEmail. alkinana@oregonstate.edu\nDepartment. Fisheries, Wildlife, and Conservation Sciences, Oregon State University, Corvallis, Oregon."
+    "text": "Work that sits alongside the dissertation: analyses, datasets, and tools that are useful on their own."
   },
   {
-    "objectID": "contact.html#elsewhere",
-    "href": "contact.html#elsewhere",
-    "title": "Contact",
-    "section": "Elsewhere",
-    "text": "Elsewhere\n\nORCID\nGoogle Scholar\nLinkedIn\nResearchGate\nGitHub\nOSU department profile"
+    "objectID": "projects.html#saudi-fisheries-statistics-analysis",
+    "href": "projects.html#saudi-fisheries-statistics-analysis",
+    "title": "Projects",
+    "section": "Saudi fisheries statistics analysis",
+    "text": "Saudi fisheries statistics analysis\nAnalysis of national fisheries and aquaculture statistics, aimed at describing production trends and their implications for marine resource management and the Blue Economy.\nStatus: in progress. Add outputs, figures, and any resulting manuscript here."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Abdullah Alkinani",
-    "section": "",
-    "text": "PhD Researcher at Oregon State University, Department of Fisheries, Wildlife, and Conservation Sciences.\nResearching freshwater ecosystems, biological invasions, predator–prey interactions, and fish–crayfish ecology using field surveys, controlled experiments, behavioral observations, and quantitative ecological methods."
+    "objectID": "projects.html#crayfish-distribution-and-contact-zones",
+    "href": "projects.html#crayfish-distribution-and-contact-zones",
+    "title": "Projects",
+    "section": "Crayfish distribution and contact zones",
+    "text": "Crayfish distribution and contact zones\nSpatial analysis of Faxonius neglectus and Pacifastacus leniusculus occurrence records to identify where the two ranges meet.\nStatus: feeds Chapter 3. Add maps and code links here."
   },
   {
-    "objectID": "index.html#what-i-work-on",
-    "href": "index.html#what-i-work-on",
-    "title": "Abdullah Alkinani",
-    "section": "What I work on",
-    "text": "What I work on\nMy dissertation examines how non-native Smallmouth Bass (Micropterus dolomieu), invasive Ringed Crayfish (Faxonius neglectus), and native Signal Crayfish (Pacifastacus leniusculus) interact in the Willamette and Umpqua River systems, and whether one invader can slow another. The work combines field diet analysis, stable isotopes, mesocosm experiments, and spatial stream network modeling.\nRead more about the research →"
+    "objectID": "projects.html#reproducible-analysis-workflows",
+    "href": "projects.html#reproducible-analysis-workflows",
+    "title": "Projects",
+    "section": "Reproducible analysis workflows",
+    "text": "Reproducible analysis workflows\nR and Quarto pipelines that take raw field data through models, figures, and tables to a rendered document, so an analysis can be rerun end to end.\nStatus: ongoing. Link public repositories here."
   },
   {
-    "objectID": "index.html#currently",
-    "href": "index.html#currently",
-    "title": "Abdullah Alkinani",
-    "section": "Currently",
-    "text": "Currently\n\nCompleting three dissertation chapters; expected graduation March 2027.\nRunning temperature-controlled predation trials in a three-compartment mesocosm system.\nBuilding reproducible analysis pipelines in R and Quarto."
+    "objectID": "projects.html#interactive-research-framework",
+    "href": "projects.html#interactive-research-framework",
+    "title": "Projects",
+    "section": "Interactive research framework",
+    "text": "Interactive research framework\nA browser-based framework illustrating the bass–crayfish interaction system studied in this dissertation.\nView the framework"
   },
   {
     "objectID": "publications.html",
@@ -187,5 +117,75 @@
     "title": "Publications",
     "section": "Where else to find this list",
     "text": "Where else to find this list\nORCID · Google Scholar · ResearchGate"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Abdullah Alkinani",
+    "section": "",
+    "text": "PhD Researcher at Oregon State University, Department of Fisheries, Wildlife, and Conservation Sciences.\nResearching freshwater ecosystems, biological invasions, predator–prey interactions, and fish–crayfish ecology using field surveys, controlled experiments, behavioral observations, and quantitative ecological methods."
+  },
+  {
+    "objectID": "index.html#what-i-work-on",
+    "href": "index.html#what-i-work-on",
+    "title": "Abdullah Alkinani",
+    "section": "What I work on",
+    "text": "What I work on\nMy dissertation examines how non-native Smallmouth Bass (Micropterus dolomieu), invasive Ringed Crayfish (Faxonius neglectus), and native Signal Crayfish (Pacifastacus leniusculus) interact in the Willamette and Umpqua River systems, and whether one invader can slow another. The work combines field diet analysis, stable isotopes, mesocosm experiments, and spatial stream network modeling.\nRead more about the research →"
+  },
+  {
+    "objectID": "index.html#currently",
+    "href": "index.html#currently",
+    "title": "Abdullah Alkinani",
+    "section": "Currently",
+    "text": "Currently\n\nCompleting three dissertation chapters; expected graduation March 2027.\nRunning temperature-controlled predation trials in a three-compartment mesocosm system.\nBuilding reproducible analysis pipelines in R and Quarto."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Two invaders now overlap with a native species in Oregon rivers. Non-native Smallmouth Bass are established predators in the Willamette and Umpqua systems; invasive Ringed Crayfish (Faxonius neglectus) are spreading into the range of native Signal Crayfish (Pacifastacus leniusculus). My dissertation asks whether predation by one non-native species alters the establishment of another — an invasive-on-invasive biotic resistance framing — and what that means for the native crayfish caught in the middle.\nThe three chapters move from what is eaten in the field, to why, to where it matters."
+  },
+  {
+    "objectID": "research.html#research-program",
+    "href": "research.html#research-program",
+    "title": "Research",
+    "section": "",
+    "text": "Two invaders now overlap with a native species in Oregon rivers. Non-native Smallmouth Bass are established predators in the Willamette and Umpqua systems; invasive Ringed Crayfish (Faxonius neglectus) are spreading into the range of native Signal Crayfish (Pacifastacus leniusculus). My dissertation asks whether predation by one non-native species alters the establishment of another — an invasive-on-invasive biotic resistance framing — and what that means for the native crayfish caught in the middle.\nThe three chapters move from what is eaten in the field, to why, to where it matters."
+  },
+  {
+    "objectID": "research.html#dissertation-chapters",
+    "href": "research.html#dissertation-chapters",
+    "title": "Research",
+    "section": "Dissertation chapters",
+    "text": "Dissertation chapters\n\nChapter 1\n\nDiet and trophic position in the field\nResearch question. What do Smallmouth Bass eat across the invasion front, and how much of that diet is crayfish?\nApproach. Field diet analysis paired with stable isotope work (δ¹³C and δ¹⁵N) to resolve trophic position and long-term resource use across sites in the Willamette and Umpqua basins.\nPlaceholder: add a site map, sampling summary, and one representative figure here.\n\n\n\nChapter 2\n\nTemperature and predator–prey interactions\nHow does temperature influence Smallmouth Bass predation on native Signal Crayfish and non-native Ringed Crayfish?\nExperimental design. Controlled predation trials across a temperature gradient spanning conditions measured in the field (approximately 20–27 °C during June fieldwork at stations UMP001–UMP005).\nSpecies studied. Micropterus dolomieu, Faxonius neglectus, Pacifastacus leniusculus.\nTank setup. A three-compartment mesocosm (120 × 40 × 50 cm) separating the predator, a shared arena, and the crayfish, allowing controlled encounters and behavioral observation.\nMethods. Trial protocol, prey selection metrics, behavioral scoring, and the statistical models used to analyze consumption rates.\nPlaceholder: add tank photos, the schematic, and preliminary results here.\nOnce published, this section will carry: publication · dataset · R code · conference presentation · DOI.\n\n\n\nChapter 3\n\nDistribution and the range contact zone\nResearch question. Where do the two crayfish species actually meet, and what stream conditions predict overlap?\nApproach. Spatial stream network modeling and distribution analysis. A national occurrence comparison found no shared hexagonal cells between F. neglectus and P. leniusculus, which makes the study reach a novel contact zone rather than a long-established one.\nPlaceholder: add distribution maps and model output here."
+  },
+  {
+    "objectID": "research.html#methods-and-tools",
+    "href": "research.html#methods-and-tools",
+    "title": "Research",
+    "section": "Methods and tools",
+    "text": "Methods and tools\n\n\n\n\n\n\n\nArea\nTools\n\n\n\n\nField sampling\nDiet collection, temperature loggers, site surveys\n\n\nLaboratory\nStable isotope analysis (δ¹³C, δ¹⁵N), mesocosm predation trials\n\n\nQuantitative\nR, mixed models, spatial stream network models, species distribution modeling\n\n\nReproducibility\nQuarto, Git and GitHub, Zotero with Better BibTeX"
+  },
+  {
+    "objectID": "research.html#field-and-lab-gallery",
+    "href": "research.html#field-and-lab-gallery",
+    "title": "Research",
+    "section": "Field and lab gallery",
+    "text": "Field and lab gallery\nPlaceholder: add photographs to assets/ and insert them here. Images do more for this page than any paragraph will."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "I am open to collaboration on freshwater invasions, predator–prey ecology, and fisheries data analysis, and to conversations about marine and freshwater resource management.\nEmail. alkinana@oregonstate.edu\nDepartment. Fisheries, Wildlife, and Conservation Sciences, Oregon State University, Corvallis, Oregon."
+  },
+  {
+    "objectID": "contact.html#elsewhere",
+    "href": "contact.html#elsewhere",
+    "title": "Contact",
+    "section": "Elsewhere",
+    "text": "Elsewhere\n\nORCID\nGoogle Scholar\nLinkedIn\nResearchGate\nGitHub\nOSU department profile"
   }
 ]
