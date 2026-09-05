@@ -1,0 +1,29 @@
+---
+title: "Projects"
+description-meta: "Research projects, analyses, and tools by Abdullah Alkinani."
+---
+
+Work that sits alongside the dissertation: analyses, datasets, and tools that are
+useful on their own.
+
+## Saudi fisheries statistics analysis
+
+Analysis of national fisheries and aquaculture statistics, aimed at describing
+production trends and their implications for marine resource management and the
+Blue Economy.
+
+*Status: in progress. Add outputs, figures, and any resulting manuscript here.*
+
+## Crayfish distribution and contact zones
+
+Spatial analysis of *Faxonius neglectus* and *Pacifastacus leniusculus* occurrence
+records to identify where the two ranges meet.
+
+*Status: feeds Chapter 3. Add maps and code links here.*
+
+## Reproducible analysis workflows
+
+R and Quarto pipelines that take raw field data through models, figures, and tables
+to a rendered document, so an analysis can be rerun end to end.
+
+*Status: ongoing. Link public repositories here.*

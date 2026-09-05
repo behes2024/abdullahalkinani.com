@@ -1,0 +1,56 @@
+---
+title: "Abdullah Alkinani"
+subtitle: "Fisheries Scientist & Aquatic Ecologist"
+pagetitle: "Abdullah Alkinani | Fisheries Scientist & Aquatic Ecologist"
+description-meta: "Abdullah Alkinani is a fisheries scientist and aquatic ecologist, PhD researcher at Oregon State University, studying freshwater invasions and fish-crayfish predator-prey interactions."
+about:
+  template: trestles
+  image: assets/profile.jpg
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:alkinana@oregonstate.edu
+    - icon: person-badge
+      text: ORCID
+      href: "https://orcid.org/0000-0000-0000-0000"
+    - icon: mortarboard
+      text: Google Scholar
+      href: "#"
+    - icon: linkedin
+      text: LinkedIn
+      href: "https://www.linkedin.com/in/abdullah-alkinani-9a801327/"
+    - icon: github
+      text: GitHub
+      href: "https://github.com/behes2024"
+---
+
+PhD Researcher at Oregon State University, Department of Fisheries, Wildlife, and
+Conservation Sciences.
+
+Researching freshwater ecosystems, biological invasions, predator–prey interactions,
+and fish–crayfish ecology using field surveys, controlled experiments, behavioral
+observations, and quantitative ecological methods.
+
+::: {.keywords}
+Aquatic Ecology · Fisheries Science · Invasive Species · Freshwater Ecology ·
+Crayfish Ecology · Smallmouth Bass · Predator–Prey Interactions ·
+Behavioral Ecology · R
+:::
+
+## What I work on
+
+My dissertation examines how non-native Smallmouth Bass (*Micropterus dolomieu*),
+invasive Ringed Crayfish (*Faxonius neglectus*), and native Signal Crayfish
+(*Pacifastacus leniusculus*) interact in the Willamette and Umpqua River systems,
+and whether one invader can slow another. The work combines field diet analysis,
+stable isotopes, mesocosm experiments, and spatial stream network modeling.
+
+[Read more about the research →](research.qmd)
+
+## Currently
+
+- Completing three dissertation chapters; expected graduation March 2027.
+- Running temperature-controlled predation trials in a three-compartment mesocosm system.
+- Building reproducible analysis pipelines in R and Quarto.

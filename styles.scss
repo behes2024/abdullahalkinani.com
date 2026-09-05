@@ -1,0 +1,109 @@
+/*-- scss:defaults --*/
+
+// Palette drawn from a shaded riffle: wet slate, tannin water, streambed gravel.
+$ink:          #12242c;
+$body-color:   #35474e;
+$accent:       #17636f;
+$accent-deep:  #0e454e;
+$surface:      #f2f6f6;
+$rule:         #d6e0e0;
+
+$body-bg:      #ffffff;
+$link-color:   $accent;
+$navbar-bg:    $ink;
+$navbar-fg:    #e6eeee;
+$footer-bg:    $surface;
+
+$font-family-sans-serif: "IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+$headings-font-family:   "Source Serif 4", Georgia, "Times New Roman", serif;
+$font-size-root:         17px;
+$line-height-base:       1.65;
+$headings-font-weight:   600;
+$headings-color:         $ink;
+
+$toc-color:              $accent-deep;
+$code-block-bg:          $surface;
+
+/*-- scss:rules --*/
+
+h1, h2, h3 {
+  letter-spacing: -0.01em;
+}
+
+h2 {
+  margin-top: 2.4rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid $rule;
+}
+
+// Homepage identity block
+.quarto-about-trestles .about-entity .about-links {
+  margin-top: 1rem;
+}
+
+.about-subtitle,
+p.subtitle {
+  font-family: "Source Serif 4", Georgia, serif;
+  font-size: 1.25rem;
+  color: $accent-deep;
+  font-weight: 400;
+}
+
+// The keyword line under the intro
+.keywords {
+  font-size: 0.92rem;
+  color: #5d7078;
+  line-height: 1.9;
+  border-left: 3px solid $accent;
+  padding-left: 0.9rem;
+  margin: 1.5rem 0;
+}
+
+// Research chapter blocks: the number carries real sequence, so it stays
+.chapter {
+  background: $surface;
+  border-radius: 4px;
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.chapter .status {
+  display: inline-block;
+  font-size: 0.8rem;
+  color: $accent-deep;
+  border: 1px solid $rule;
+  background: #fff;
+  border-radius: 999px;
+  padding: 0.1rem 0.65rem;
+  margin-bottom: 0.5rem;
+}
+
+.question {
+  font-family: "Source Serif 4", Georgia, serif;
+  font-size: 1.1rem;
+  color: $ink;
+}
+
+blockquote {
+  border-left: 3px solid $accent;
+  color: $body-color;
+}
+
+a {
+  text-underline-offset: 2px;
+}
+
+.navbar-brand {
+  font-family: "Source Serif 4", Georgia, serif;
+  font-weight: 600;
+}
+
+#quarto-content a:focus-visible,
+.navbar a:focus-visible {
+  outline: 2px solid $accent;
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; scroll-behavior: auto !important; }
+}

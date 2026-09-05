@@ -1,0 +1,79 @@
+---
+title: "CV"
+description-meta: "Curriculum vitae of Abdullah Alkinani — fisheries scientist, aquatic ecologist, and biology educator."
+---
+
+[Download PDF](assets/Alkinani-CV.pdf){.btn .btn-outline-primary}
+
+*Put your CV file in `assets/` named `Alkinani-CV.pdf` and this button works.*
+
+## Education
+
+**PhD, Fisheries, Wildlife, and Conservation Sciences** — Oregon State University,
+Corvallis, Oregon. Expected 2027. Advisor: Dr. Ivan Arismendi.
+Research focus: trophic interactions between non-native Smallmouth Bass and crayfish
+in Oregon river systems.
+
+**MEd, Gifted Education** *(Summa Cum Laude)* — Flinders University, Adelaide,
+Australia, 2019–2021.
+Thesis: a statistical study of the effects of electronic games on gifted students.
+
+**BEd, Biology** — King Khalid University, Abha, Saudi Arabia, 1994–1998.
+Project: survey of significant plant species of the Tihama and Asir regions.
+
+## Research and professional experience
+
+**Graduate Researcher** — Oregon State University, Corvallis, Oregon. Present.
+Field and experimental research on freshwater invasions and predator–prey dynamics;
+statistical analysis in R and spatial modeling of invasive species distributions;
+water quality and trophic analysis supporting conservation in the Willamette system.
+
+**Lecturer and Trainer, Environmental Sustainability** — Principles of Environmental
+Sustainability Program, Qunfudhah, Saudi Arabia. May 2012 – September 2017.
+Trained conservation professionals and park rangers in ecological assessment and
+wildlife management; delivered technical workshops on water quality monitoring;
+contributed to conservation work in the Wadi Hali region.
+
+**Biology Teacher** — Ministry of Education, Makkah, Saudi Arabia. Since January 1999.
+Designed and taught inquiry-based biology curricula; integrated data analysis and
+spatial tools into classroom science; led development of an environmental science
+curriculum adopted by five regional schools; mentored students to regional and
+national science fair recognition.
+
+## Skills
+
+**Quantitative.** R and RStudio, ecological modeling, mixed models, spatial stream
+network modeling, species distribution modeling, GIS (ArcGIS Pro), SPSS,
+experimental design.
+
+**Laboratory and field.** Stable isotope analysis, diet analysis, mesocosm design
+and operation, water quality measurement (pH, dissolved oxygen, conductivity,
+nitrates), taxonomy and species identification, microscopy, dissection and
+anatomical analysis, temperature logger deployment.
+
+**Reproducibility.** Quarto, Git and GitHub, Zotero with Better BibTeX.
+
+**Teaching.** Curriculum development, inquiry-based science teaching, STEM
+education, differentiated instruction, e-learning and virtual labs, scientific
+mentoring.
+
+**Languages.** Arabic (native), English (fluent).
+
+## Certifications and professional development
+
+- Inquiry-Based Teaching in Science (15 hours) — Educational Training Center
+- Test Construction and Table of Specifications (15 hours) — Education Administration
+- Differentiated Instruction and Active Learning (12 hours) — Education Office
+- CoRT Thinking Skills Program (15 hours) — Education Office
+- Research and Laboratory Safety Standards — International Academic Institution
+
+## Awards and funding
+
+Scholarship, Ministry of Education, Saudi Arabia — doctoral study at Oregon State
+University.
+
+*Add other awards and grants here.*
+
+## Service
+
+*Add peer review, committees, and outreach here.*

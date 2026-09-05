@@ -1,0 +1,34 @@
+---
+title: "Publications"
+description-meta: "Peer-reviewed publications, manuscripts, and conference presentations by Abdullah Alkinani."
+bibliography: references.bib
+# To use AFS style, download the .csl from zotero.org/styles into the project
+# folder and uncomment the next line:
+# csl: american-fisheries-society.csl
+nocite: |
+  @*
+---
+
+Everything on this page is generated from a single file, `references.bib`. Export a
+record from Zotero (Better BibTeX), paste it into that file, render, and it appears
+here — no retyping.
+
+## Peer-reviewed
+
+::: {#refs}
+:::
+
+## In preparation
+
+- Chapter 2 manuscript: temperature-dependent predation by Smallmouth Bass on
+  native and non-native crayfish. *In preparation.*
+
+## Conference presentations
+
+*Add talks and posters here as they happen: title, meeting, location, year.*
+
+## Where else to find this list
+
+[ORCID](https://orcid.org/0000-0000-0000-0000) ·
+[Google Scholar](#) ·
+[ResearchGate](#)

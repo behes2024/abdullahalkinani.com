@@ -1,0 +1,61 @@
+project:
+  type: website
+  output-dir: _site
+  # After you buy the domain, create a file named CNAME (one line: abdullahalkinani.com)
+  # and uncomment the two lines below so it survives every render.
+  # resources:
+  #   - CNAME
+
+website:
+  title: "Abdullah Alkinani"
+  description: "Fisheries Scientist and Aquatic Ecologist. PhD Researcher at Oregon State University working on freshwater invasions, predator-prey interactions, and fish-crayfish ecology."
+  # Change to https://abdullahalkinani.com once the domain is connected.
+  site-url: https://behes2024.github.io/abdullahalkinani.com
+  favicon: assets/favicon.png
+  open-graph: true
+  twitter-card: true
+  search: true
+  navbar:
+    logo: assets/favicon.png
+    title: "Abdullah Alkinani"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: projects.qmd
+        text: Projects
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: github
+        href: https://github.com/behes2024
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/abdullah-alkinani-9a801327/
+        aria-label: LinkedIn
+  page-footer:
+    left: "© 2026 Abdullah Alkinani"
+    center: "Built with [Quarto](https://quarto.org)"
+    right: "Corvallis, Oregon"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.scss
+    toc: true
+    toc-depth: 3
+    anchor-sections: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    include-in-header: includes/jsonld.html
+    grid:
+      body-width: 860px
+
+execute:
+  freeze: auto

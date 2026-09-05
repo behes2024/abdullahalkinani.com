@@ -1,0 +1,91 @@
+---
+title: "Research"
+description-meta: "Dissertation research on trophic interactions among Smallmouth Bass, invasive Ringed Crayfish, and native Signal Crayfish in Oregon rivers."
+---
+
+## Research program
+
+Two invaders now overlap with a native species in Oregon rivers. Non-native
+Smallmouth Bass are established predators in the Willamette and Umpqua systems;
+invasive Ringed Crayfish (*Faxonius neglectus*) are spreading into the range of
+native Signal Crayfish (*Pacifastacus leniusculus*). My dissertation asks whether
+predation by one non-native species alters the establishment of another — an
+invasive-on-invasive biotic resistance framing — and what that means for the native
+crayfish caught in the middle.
+
+The three chapters move from what is eaten in the field, to why, to where it matters.
+
+## Dissertation chapters
+
+::: {.chapter}
+[Chapter 1]{.status}
+
+### Diet and trophic position in the field
+
+**Research question.** What do Smallmouth Bass eat across the invasion front, and
+how much of that diet is crayfish?
+
+**Approach.** Field diet analysis paired with stable isotope work (δ¹³C and δ¹⁵N)
+to resolve trophic position and long-term resource use across sites in the
+Willamette and Umpqua basins.
+
+*Placeholder: add a site map, sampling summary, and one representative figure here.*
+:::
+
+::: {.chapter}
+[Chapter 2]{.status}
+
+### Temperature and predator–prey interactions
+
+[**How does temperature influence Smallmouth Bass predation on native Signal
+Crayfish and non-native Ringed Crayfish?**]{.question}
+
+**Experimental design.** Controlled predation trials across a temperature gradient
+spanning conditions measured in the field (approximately 20–27 °C during June
+fieldwork at stations UMP001–UMP005).
+
+**Species studied.** *Micropterus dolomieu*, *Faxonius neglectus*,
+*Pacifastacus leniusculus*.
+
+**Tank setup.** A three-compartment mesocosm (120 × 40 × 50 cm) separating the
+predator, a shared arena, and the crayfish, allowing controlled encounters and
+behavioral observation.
+
+**Methods.** Trial protocol, prey selection metrics, behavioral scoring, and the
+statistical models used to analyze consumption rates.
+
+*Placeholder: add tank photos, the schematic, and preliminary results here.*
+
+Once published, this section will carry: publication · dataset · R code ·
+conference presentation · DOI.
+:::
+
+::: {.chapter}
+[Chapter 3]{.status}
+
+### Distribution and the range contact zone
+
+**Research question.** Where do the two crayfish species actually meet, and what
+stream conditions predict overlap?
+
+**Approach.** Spatial stream network modeling and distribution analysis. A national
+occurrence comparison found no shared hexagonal cells between *F. neglectus* and
+*P. leniusculus*, which makes the study reach a novel contact zone rather than a
+long-established one.
+
+*Placeholder: add distribution maps and model output here.*
+:::
+
+## Methods and tools
+
+| Area | Tools |
+|---|---|
+| Field sampling | Diet collection, temperature loggers, site surveys |
+| Laboratory | Stable isotope analysis (δ¹³C, δ¹⁵N), mesocosm predation trials |
+| Quantitative | R, mixed models, spatial stream network models, species distribution modeling |
+| Reproducibility | Quarto, Git and GitHub, Zotero with Better BibTeX |
+
+## Field and lab gallery
+
+*Placeholder: add photographs to `assets/` and insert them here. Images do more for
+this page than any paragraph will.*
