@@ -20,7 +20,7 @@ about:
       href: "https://scholar.google.com/citations?user=nAxie5oAAAAJ"
     - icon: linkedin
       text: LinkedIn
-      href: "https://www.linkedin.com/in/abdullah-alkinani-9a801327/"
+      href: "https://www.linkedin.com/in/abdullah-y-alkinani/"
     - icon: github
       text: GitHub
       href: "https://github.com/behes2024"
