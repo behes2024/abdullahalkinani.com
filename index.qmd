@@ -14,10 +14,10 @@ about:
       href: mailto:alkinana@oregonstate.edu
     - icon: person-badge
       text: ORCID
-      href: "https://orcid.org/0000-0000-0000-0000"
+      href: "https://orcid.org/0000-0003-3310-0668"
     - icon: mortarboard
       text: Google Scholar
-      href: "#"
+      href: "https://scholar.google.com/citations?user=nAxie5oAAAAJ"
     - icon: linkedin
       text: LinkedIn
       href: "https://www.linkedin.com/in/abdullah-alkinani-9a801327/"
