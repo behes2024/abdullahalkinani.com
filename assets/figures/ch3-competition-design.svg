@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 480" role="img" aria-labelledby="comp-title comp-desc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+  <title id="comp-title">Planned shelter-competition design (not yet started)</title>
+  <desc id="comp-desc">Planned fully factorial design crossing two temperatures, cool 17 degrees Celsius and warm 23 degrees Celsius, with two shelter levels, one refuge or two refuges, for size-matched pairs of one Signal Crayfish and one Ringed Crayfish, with nine replicates per cell and 60-minute video-recorded trials. As of this design, zero trials have been conducted.</desc>
+
+  <style>
+    .label{font-size:14px; font-weight:600; fill:#12242c;}
+    .small{font-size:12.5px; fill:#35474e;}
+    .tiny{font-size:11px; fill:#5d7078;}
+    .cell{fill:#f2f6f6; stroke:#d6e0e0;}
+    .planned{fill:#fbf3e3; stroke:#c9973d; stroke-dasharray:5,3;}
+  </style>
+
+  <rect x="20" y="14" width="680" height="40" rx="4" class="planned"/>
+  <text x="360" y="40" text-anchor="middle" class="label">PLANNED — zero trials conducted; design only, not yet started</text>
+
+  <!-- 2x2 grid -->
+  <text x="360" y="80" text-anchor="middle" class="small">Fully factorial 2 × 2 design</text>
+
+  <!-- column headers -->
+  <text x="260" y="108" text-anchor="middle" class="small">Limited shelter (1 refuge)</text>
+  <text x="470" y="108" text-anchor="middle" class="small">Equal shelter (2 refuges)</text>
+
+  <!-- row headers -->
+  <text x="80" y="170" text-anchor="middle" class="small">Cool</text>
+  <text x="80" y="186" text-anchor="middle" class="tiny">17°C</text>
+  <text x="80" y="290" text-anchor="middle" class="small">Warm</text>
+  <text x="80" y="306" text-anchor="middle" class="tiny">23°C</text>
+
+  <!-- cells -->
+  <rect x="150" y="120" width="220" height="110" rx="4" class="cell"/>
+  <text x="260" y="150" text-anchor="middle" class="small">1 Signal + 1 Ringed</text>
+  <text x="260" y="168" text-anchor="middle" class="tiny">size-matched ± 2 mm CL</text>
+  <text x="260" y="186" text-anchor="middle" class="tiny">cool, limited shelter</text>
+  <text x="260" y="204" text-anchor="middle" class="tiny">9 replicates planned</text>
+
+  <rect x="380" y="120" width="220" height="110" rx="4" class="cell"/>
+  <text x="490" y="150" text-anchor="middle" class="small">1 Signal + 1 Ringed</text>
+  <text x="490" y="168" text-anchor="middle" class="tiny">size-matched ± 2 mm CL</text>
+  <text x="490" y="186" text-anchor="middle" class="tiny">cool, equal shelter</text>
+  <text x="490" y="204" text-anchor="middle" class="tiny">9 replicates planned</text>
+
+  <rect x="150" y="240" width="220" height="110" rx="4" class="cell"/>
+  <text x="260" y="270" text-anchor="middle" class="small">1 Signal + 1 Ringed</text>
+  <text x="260" y="288" text-anchor="middle" class="tiny">size-matched ± 2 mm CL</text>
+  <text x="260" y="306" text-anchor="middle" class="tiny">warm, limited shelter</text>
+  <text x="260" y="324" text-anchor="middle" class="tiny">9 replicates planned</text>
+
+  <rect x="380" y="240" width="220" height="110" rx="4" class="cell"/>
+  <text x="490" y="270" text-anchor="middle" class="small">1 Signal + 1 Ringed</text>
+  <text x="490" y="288" text-anchor="middle" class="tiny">size-matched ± 2 mm CL</text>
+  <text x="490" y="306" text-anchor="middle" class="tiny">warm, equal shelter</text>
+  <text x="490" y="324" text-anchor="middle" class="tiny">9 replicates planned</text>
+
+  <text x="360" y="382" text-anchor="middle" class="small">Each trial: 60 minutes, video-recorded</text>
+  <text x="360" y="400" text-anchor="middle" class="small">Planned metrics: shelter occupancy, aggression frequency, displacement, survival</text>
+  <text x="360" y="422" text-anchor="middle" class="tiny">Dominance scored only under the limited-shelter treatment</text>
+  <text x="360" y="440" text-anchor="middle" class="tiny">(single-refuge competition creates measurable asymmetry)</text>
+
+  <text x="360" y="466" text-anchor="middle" class="tiny" fill="#5d7078">Chapter 3, Track 2 — shelter-competition experiment (design stage)</text>
+</svg>

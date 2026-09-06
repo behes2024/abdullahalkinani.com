@@ -1,11 +1,17 @@
 ---
 title: "Data & Code"
 description-meta: "Data and code availability for Abdullah Alkinani's research on freshwater invasions and fish-crayfish ecology."
+description: "Data and code availability for Abdullah Alkinani's research on freshwater invasions and fish-crayfish ecology."
+hide-description: true
 ---
 
 I am committed to reproducible ecological research. Datasets, analysis code,
 and supporting materials for completed projects will be archived here as they
-become available, typically alongside the associated publication.
+become available, typically alongside the associated publication. Raw,
+unpublished field and experimental data are not made public ahead of the
+associated manuscript.
+
+![](assets/figures/reproducible-workflow.svg){fig-alt="Diagram of a reproducible research workflow: field and laboratory experiments produce data, analyzed and visualized in R, version-controlled with Git and GitHub, rendered with Quarto, and resulting in a manuscript, publication, or archived dataset." width="55%"}
 
 ## Smallmouth Bass diet and electivity (Chapter 1)
 

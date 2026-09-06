@@ -3,9 +3,12 @@ title: "Abdullah Alkinani"
 subtitle: "Fisheries Scientist & Aquatic Ecologist"
 pagetitle: "Abdullah Alkinani | Fisheries Scientist & Aquatic Ecologist"
 description-meta: "Abdullah Alkinani is a fisheries scientist and aquatic ecologist, PhD researcher at Oregon State University, studying freshwater invasions and fish-crayfish predator-prey interactions."
+description: "Abdullah Alkinani is a fisheries scientist and aquatic ecologist, PhD researcher at Oregon State University, studying freshwater invasions and fish-crayfish predator-prey interactions."
+hide-description: true
 about:
   template: trestles
   image: assets/profile.jpg
+  image-alt: "Portrait of Abdullah Alkinani, fisheries scientist and aquatic ecologist"
   image-shape: rounded
   image-width: 15em
   links:
@@ -58,15 +61,17 @@ affecting the native species caught in between.
 
 - Completing the experimental and field components of my PhD dissertation at
   Oregon State University.
-- Running laboratory predation trials examining Smallmouth Bass interactions
-  with native Signal Crayfish and non-native Ringed Crayfish.
-- Conducting thermal-preference and competition trials between Signal and
-  Ringed Crayfish using controlled experiments and video-based behavioral
-  analysis.
+- Running pilot-phase laboratory predation trials examining Smallmouth Bass
+  interactions with native Signal Crayfish and non-native Ringed Crayfish.
+- Running thermal-choice pilot trials with Signal and Ringed Crayfish using
+  controlled experiments and video-based behavioral analysis; the planned
+  shelter-competition experiment has not yet started.
 - Expanding field sampling across the Umpqua River system to characterize
   crayfish availability and thermal habitat.
 - Building reproducible ecological data-analysis workflows in R, Quarto, Git,
   and GitHub.
+
+![Processing a Smallmouth Bass for diet analysis during a summer field collection event](assets/images/home/abdullah-fieldwork-diet-sampling.jpg){fig-alt="A researcher measuring a fish on a wooden board outdoors during a field collection event, with sample bags visible nearby."}
 
 ## Research interests
 

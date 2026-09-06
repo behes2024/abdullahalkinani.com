@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 200" role="img" aria-labelledby="sig-title sig-desc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+  <title id="sig-title">Illustration: Signal Crayfish (generic silhouette)</title>
+  <desc id="sig-desc">Generic dorsal-view crayfish silhouette used as a placeholder illustration for Signal Crayfish, Pacifastacus leniusculus, pending a confirmed species photograph from the study.</desc>
+  <style>
+    .body{fill:#8a6a4a; opacity:0.85;}
+    .tiny{font-size:11px; fill:#5d7078; font-style:italic;}
+  </style>
+  <g transform="translate(30,40)">
+    <ellipse cx="130" cy="60" rx="70" ry="34" class="body"/>
+    <ellipse cx="55" cy="60" rx="34" ry="26" class="body"/>
+    <path d="M20,60 L-25,40" stroke="#8a6a4a" stroke-width="10" stroke-linecap="round"/>
+    <path d="M20,64 L-25,84" stroke="#8a6a4a" stroke-width="10" stroke-linecap="round"/>
+    <path d="M195,55 C230,40 245,45 250,55 C245,65 230,62 210,60 Z" class="body"/>
+    <path d="M195,65 C230,80 245,75 250,65 C245,55 230,58 210,60 Z" class="body"/>
+    <rect x="200" y="90" width="70" height="22" rx="8" class="body" opacity="0.5"/>
+  </g>
+  <text x="150" y="188" text-anchor="middle" class="tiny">Illustration — species photo pending confirmation</text>
+</svg>

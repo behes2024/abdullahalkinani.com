@@ -28,3 +28,8 @@ assets/*.xlsx
 assets/*.xls
 assets/*.csv
 assets/Abdullah proposal RLF4.docx
+
+# Temporary local source for photo review — full-resolution originals with
+# EXIF/GPS intact. Never commit this folder; only vetted, stripped copies
+# selected from it go into assets/images/.
+.image-source/

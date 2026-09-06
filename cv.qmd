@@ -1,6 +1,8 @@
 ---
 title: "CV"
 description-meta: "Curriculum vitae of Abdullah Alkinani — fisheries scientist, aquatic ecologist, and biology educator."
+description: "Curriculum vitae of Abdullah Alkinani — fisheries scientist, aquatic ecologist, and biology educator."
+hide-description: true
 ---
 
 [Download PDF](assets/Alkinani-CV.pdf){.btn .btn-outline-primary}
@@ -28,8 +30,8 @@ Project: survey of significant plant species of the Tihama and Asir regions.
 
 **Graduate Researcher** — Oregon State University, Corvallis, Oregon. Present.
 Field and experimental research on freshwater invasions and predator–prey
-dynamics; laboratory predation, thermal-preference, and competition trials
-with video-based behavioral analysis; statistical analysis in R supporting
+dynamics; pilot-phase laboratory predation and thermal-choice trials with
+video-based behavioral analysis; statistical analysis in R supporting
 conservation-relevant questions in the Willamette and Umpqua systems.
 
 **Lecturer and Trainer, Environmental Sustainability** — Principles of Environmental

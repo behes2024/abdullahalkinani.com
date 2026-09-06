@@ -1,6 +1,4 @@
-# Optional: automatic rendering on every push to main.
-# Use `quarto publish gh-pages` from your machine first; switch to this
-# workflow only when you want pushes alone to trigger a rebuild.
+# Renders and publishes the site to the gh-pages branch on every push to main.
 name: Publish website
 
 on:

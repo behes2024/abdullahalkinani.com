@@ -1,6 +1,8 @@
 ---
 title: "Contact"
 description-meta: "Contact Abdullah Alkinani, fisheries scientist and aquatic ecologist at Oregon State University."
+description: "Contact Abdullah Alkinani, fisheries scientist and aquatic ecologist at Oregon State University."
+hide-description: true
 ---
 
 I welcome collaborations and conversations related to freshwater ecology,

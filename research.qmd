@@ -1,6 +1,8 @@
 ---
 title: "Research"
 description-meta: "Dissertation research on ecological interactions among non-native Smallmouth Bass, native Signal Crayfish, and non-native Ringed Crayfish in Oregon river systems."
+description: "Dissertation research on ecological interactions among non-native Smallmouth Bass, native Signal Crayfish, and non-native Ringed Crayfish in Oregon river systems."
+hide-description: true
 ---
 
 ## Research program
@@ -17,10 +19,14 @@ The question running through all three chapters: can interactions among
 non-native species alter the course of a biological invasion, and what does
 that mean for the native species caught between them?
 
+![Dissertation overview: Oregon river systems host non-native Smallmouth Bass, which interact with native Signal Crayfish and non-native Ringed Crayfish across three chapters — field diet and electivity, predator–prey trials, and thermal preference and competition.](assets/figures/dissertation-overview.svg){fig-alt="Diagram showing Oregon river systems leading to Smallmouth Bass, which interacts with Signal Crayfish and Ringed Crayfish, feeding into three chapters (field diet, predator-prey trials, thermal preference and competition) that converge on understanding species interactions under environmental variation."}
+
 ## Study species
 
 ::: {.species-grid}
 ::: {.species-card}
+![Smallmouth Bass held during field sampling](assets/images/species/smallmouth-bass.jpg){fig-alt="A Smallmouth Bass held in hand during field sampling on an Oregon river."}
+
 **Smallmouth Bass**\
 *Micropterus dolomieu*
 
@@ -29,19 +35,26 @@ focal fish species in the diet and predator–prey research (Chapters 1–2).
 :::
 
 ::: {.species-card}
+![Illustration of Signal Crayfish, species photo pending](assets/figures/crayfish-illustration-signal.svg){fig-alt="Generic illustrated silhouette of a crayfish, labeled as a placeholder for Signal Crayfish pending a confirmed species photograph."}
+
 **Signal Crayfish**\
 *Pacifastacus leniusculus*
 
 Native crayfish of the Pacific Northwest, and the native prey and competitor
-species examined throughout the dissertation.
+species examined throughout the dissertation. *Illustration shown; a
+confirmed field photograph will replace this once verified.*
 :::
 
 ::: {.species-card}
+![Illustration of Ringed Crayfish, species photo pending](assets/figures/crayfish-illustration-ringed.svg){fig-alt="Generic illustrated silhouette of a crayfish, labeled as a placeholder for Ringed Crayfish pending a confirmed species photograph."}
+
 **Ringed Crayfish**\
 *Faxonius neglectus*
 
 Non-native crayfish expanding into Oregon's Umpqua and Rogue basins, and the
 focal invader in the predator–prey and competition experiments (Chapters 2–3).
+*Illustration shown; a confirmed field photograph will replace this once
+verified.*
 :::
 :::
 
@@ -66,16 +79,21 @@ focal invader in the predator–prey and competition experiments (Chapters 2–3
 Assessment and the annual Umpqua Bass Bash, paired with a standardized
 capture–mark–recapture crayfish availability study across five Umpqua sites,
 sampled over four days each. Comparing stomach contents with local prey
-availability allows me to calculate Jacobs' electivity index (D) and test
+availability will allow me to calculate Jacobs' electivity index (D) and test
 whether Smallmouth Bass select for Ringed over Signal Crayfish rather than
-simply consuming whichever is more available.
+simply consuming whichever is more available. Stomach samples have been
+collected across the 2023–2026 field seasons; species-level processing of
+those samples is ongoing.
 
 **Study area.** The Willamette and Umpqua River basins, Oregon — two systems
 that differ in geomorphology, thermal regime, and crayfish assemblage,
 providing a natural contrast for these comparisons.
 
-*Figures in preparation: a study-area map, the field sampling design, and
-site photographs.*
+![Study systems in Oregon showing the Willamette and Umpqua river basins and generalized focal sampling areas. Sensitive collection locations are intentionally not shown.](assets/figures/ch1-study-area-map.svg){fig-alt="Map of western Oregon showing the Willamette River basin and the Umpqua River basin, including North Umpqua, South Umpqua, and mainstem Umpqua subbasins, with a generalized focal sampling area and no specific coordinates shown."}
+
+![Field sampling for crayfish availability on an Oregon river](assets/images/field/abdullah-crayfish-sampling-river.jpg){fig-alt="A researcher wearing waders stands in a river, examining a mesh trap over a sorting tray beside a large boulder."}
+
+![Field sampling integrates Smallmouth Bass diet observations with estimates of local crayfish availability.](assets/figures/ch1-sampling-design.svg){fig-alt="Flowchart showing Smallmouth Bass sampling leading to diet observations, combined with crayfish availability from baited trapping and active hand sampling, and environmental context from temperature and habitat, converging on prey selection and electivity analysis."}
 :::
 
 ::: {.chapter}
@@ -83,40 +101,49 @@ site photographs.*
 
 ### Laboratory predator–prey trials: Smallmouth Bass and crayfish
 
-[**When native Signal Crayfish and non-native Ringed Crayfish are offered at
-equal size and density, do Smallmouth Bass show a species-specific feeding
-preference — and how do temperature and refuge availability change that
-outcome?**]{.question}
+[**When a Smallmouth Bass is offered one Signal Crayfish and one Ringed
+Crayfish at matched size, which prey (if either) is consumed first, and how
+consistent is that outcome across individuals?**]{.question}
 
-**Experimental design.** Trials run in parallel across a six-tank system,
-each tank a glass aquarium (120 × 40 × 50 cm) divided into three
-compartments that isolate the predator, a shared arena, and the prey until
-the trial begins. Each trial offers one Smallmouth Bass a simultaneous choice
-between a size-matched Signal and Ringed Crayfish. Bass are size-standardized
-(150–250 mm TL) and individually tracked across a maximum of two trials, with
-treatment order randomized and a 48-hour washout between trials.
+**Experimental design (current protocol).** Each Smallmouth Bass is held in
+its own opaque tank and pre-conditioned there overnight (about 12 hours)
+before a trial. One Signal Crayfish and one Ringed Crayfish, size-matched by
+carapace length, are then introduced together, and the encounter is
+video-recorded for a standardized observation period under low, standardized
+lighting with disturbance minimized (visual barriers, remote camera control).
+Up to six fish are run in parallel across six independent tanks each morning.
+Individual bass are tracked across a maximum of two trials with a minimum
+48-hour interval between them.
 
-**Measurements.** Predation occurrence, species consumed, attack latency,
-handling time, and refuge occupancy — recorded on video and used to test
-whether prey choice tracks optimal foraging (shorter handling time) rather
-than prey origin alone, and whether warmer water or reduced refuge changes
-predation rates or the direction of species-specific vulnerability.
+**Measurements.** The primary outcome is which prey item, if either, is
+consumed first. Secondary behavioral metrics include approach, attack,
+aborted attacks, capture, latency, escape responses, defensive posture, and
+handling time, scored from video.
 
-**Preliminary observations.** Early trials show substantial individual
-variation in Smallmouth Bass feeding behavior, underscoring the value of
-repeated trials and standardized conditions before drawing conclusions about
-species-specific preference.
+**Temperature.** The standardized protocol targets a stable working
+temperature; pilot testing has explored trial temperatures across roughly
+16–25 °C while the protocol was being refined, rather than comparing fixed
+"warm" and "cool" treatments as a manipulated factor in this chapter.
 
-*Figures in preparation: the experimental tank system and design schematic.*
+**Current status.** Pilot-phase trials are underway to finalize the
+protocol; the full dataset under the standardized design has not yet been
+collected, and no prey-choice outcome should be treated as a result at this
+stage.
 
-Once published, this section will carry: publication · dataset · R code ·
+![Experimental system used for controlled Smallmouth Bass–crayfish predator–prey trials.](assets/images/lab/predator-prey-tank-system.jpg){fig-alt="A rack of blue opaque experimental tanks used for predator-prey trials, stacked in rows in a laboratory."}
+
+![Chapter 2 trial design: overnight pre-conditioning, paired prey introduction, video-recorded observation, and repeated standardized trials across six independent tanks](assets/figures/ch2-experimental-design.svg){fig-alt="Flowchart showing a Smallmouth Bass pre-conditioned overnight in its tank, then one Signal Crayfish and one Ringed Crayfish introduced together, followed by a video-recorded observation period, an outcome of which prey is consumed first plus secondary behavioral metrics, and repeated standardized trials across six independent opaque tanks."}
+
+![Constructing the experimental tank system used in the predator–prey and thermal trials](assets/images/lab/experimental-tank-construction.jpg){fig-alt="A researcher assembling a custom blue rectangular experimental tank with a center divider on a workbench."}
+
+Once published, this chapter will carry: publication · dataset · R code ·
 conference presentation · DOI.
 :::
 
 ::: {.chapter}
 [Chapter 3]{.status}
 
-### Thermal effects on native–non-native crayfish competition
+### Thermal preference and shelter competition between native and non-native crayfish
 
 **Research questions.**
 
@@ -127,35 +154,46 @@ conference presentation · DOI.
 - Does displacement from shelter measurably increase a crayfish's behavioral
   exposure?
 
-**Field component.** Umpqua Basin sites are classified into cold (≤18 °C),
-transitional (18–21 °C), and warm (≥21 °C) reaches using a modeled stream
-temperature dataset, validated with in-situ loggers, then sampled with
-standardized baited traps to characterize crayfish coexistence and
-catch-per-unit-effort by species, size, sex, and molt stage.
+This chapter has two experimental components at different stages, plus a
+planned field component.
 
-**Competition experiments.** A fully factorial design crosses two
-temperatures (cool 17 °C, warm 23 °C) with two shelter levels — one refuge,
-forcing direct competition, versus two refuges — for size-matched Signal and
-Ringed Crayfish pairs, recording shelter dominance, aggression, and
-displacement over 60-minute video-recorded trials.
+**Thermal-choice pilot trials (active).** Individual crayfish are placed in
+a two-channel tank with a warm channel, a cool channel, and a shared central
+junction. After a 3-minute acclimation period (not analyzed), a 20-minute
+recording period is scored for time spent in each zone, latency to first
+choice, and number of channel switches, examined across four 5-minute
+windows. This is designed as a short-term behavioral-response assay — it
+measures immediate zone choice after a controlled warm/cool input, not a
+long-term equilibrium preferred temperature. Each individual is tested once
+and then moved to a labeled recovery tank. As of this update, 13 trials of a
+planned 30–36 have been completed; this is pilot/protocol-testing data, not
+yet a basis for conclusions about species differences.
 
-**Thermal preference trials.** Individual crayfish are placed in a
-temperature-controlled apparatus and allowed to move freely between cool and
-warm zones, with position tracked on video to quantify preferred temperature,
-thermal niche breadth, and activity level for each species.
+![Experimental apparatus used for short-term crayfish thermal-choice behavioral trials.](assets/images/lab/thermal-preference-apparatus.jpg){fig-alt="Overhead photo of an empty blue tank divided by a center partition that stops short of one end, with two probes positioned near the far end of each channel."}
 
-Video from both experiments is scored in BORIS, with movement paths extracted
-using ToxTrac, Fiji/TrackMate, and DeepLabCut.
+![Thermal-choice apparatus (top view): warm and cool channels sharing a central junction, with a crayfish released at the junction after acclimation](assets/figures/ch3-thermal-apparatus.svg){fig-alt="Top-view schematic of a two-channel thermal-choice tank with a warm channel on one side, a cool channel on the other, a shared junction where a crayfish is released, and temperature loggers in each channel."}
 
-```text
-   Cool zone  ←—————  Release  —————→  Warm zone
-    (17 °C)          compartment         (23 °C)
+![Verifying the thermal gradient in the apparatus with a handheld thermal-imaging camera](assets/images/lab/thermal-apparatus-flir-check.jpg){fig-alt="A handheld FLIR thermal-imaging camera held up to a blue divided tank, showing a warm-to-cool color gradient on its screen."}
 
-  A crayfish enters at the release point and moves freely; position,
-  latency, and channel switches are tracked on video.
-```
+**Shelter-competition experiment (planned, not yet started).** The approved
+design crosses two temperatures (cool 17 °C, warm 23 °C) with two shelter
+levels — one refuge, forcing direct competition, versus two refuges — for
+size-matched Signal and Ringed Crayfish pairs, with 9 replicates per
+combination. Planned 60-minute video-recorded trials would record shelter
+dominance, aggression, and displacement, analyzed afterward with tools such
+as ToxTrac, Fiji/TrackMate, and DeepLabCut. As of this update, no trials
+have been run under this design.
 
-*Figures in preparation: the thermal apparatus schematic and site map.*
+![Conceptual design for the planned Signal Crayfish–Ringed Crayfish shelter-competition experiment.](assets/figures/ch3-competition-design.svg){fig-alt="Diagram of a planned 2 by 2 factorial design crossing cool and warm temperatures with limited and equal shelter, for size-matched Signal and Ringed Crayfish pairs, marked as not yet started."}
+
+**Field thermal context (planned, not yet conducted).** The design would
+classify Umpqua Basin reaches into cold (≤18 °C), transitional (18–21 °C),
+and warm (≥21 °C) categories using a modeled stream-temperature dataset
+(Siegel et al. 2023), validated with in-situ loggers, then sample them with
+standardized baited traps to characterize crayfish coexistence. This
+basin-wide field sampling has not yet been carried out.
+
+![Planned reach classification for the Umpqua Basin thermal-context field survey — not yet conducted.](assets/figures/ch3-thermal-sites-map.svg){fig-alt="Map of the Umpqua River basin with a legend of planned cold, transitional, and warm reach classifications, marked as not yet sampled, with no specific coordinates shown."}
 :::
 
 ## Methods and tools
@@ -163,8 +201,28 @@ using ToxTrac, Fiji/TrackMate, and DeepLabCut.
 | Area | Methods and tools |
 |---|---|
 | Field ecology | Smallmouth Bass diet sampling, crayfish trapping and hand sampling, habitat and substrate surveys |
-| Environmental monitoring | Modeled stream temperature (Siegel et al. 2023), in-situ temperature loggers |
-| Experimental ecology | Predator–prey choice trials, thermal-preference trials, interspecific competition trials |
-| Behavioral ecology | Video recording, BORIS behavioral coding, ToxTrac, Fiji/TrackMate, DeepLabCut |
+| Environmental monitoring | Modeled stream temperature (Siegel et al. 2023), in-situ temperature loggers (HOBO/Hydromath) |
+| Experimental ecology | Predator–prey trials (active pilot testing), thermal-choice trials (active pilot testing), shelter-competition trials (planned) |
+| Behavioral ecology | Video recording; BORIS behavioral coding (thermal-choice trials); ToxTrac, Fiji/TrackMate, and DeepLabCut (planned, for the shelter-competition experiment) |
 | Quantitative ecology | R, generalized and mixed-effects models, Jacobs' electivity index |
 | Reproducible science | Quarto, Git and GitHub, Zotero with Better BibTeX |
+
+## Field and lab gallery
+
+::: {.gallery-grid}
+![Volunteers and researchers at the Umpqua Bass Bash, organized by the Native Fish Society](assets/images/field/bass-bash-field-crew.jpg){fig-alt="A group of five people standing beside a Native Fish Society banner at an outdoor pavilion."}
+
+![Processing a Smallmouth Bass for diet analysis during a summer field collection event](assets/images/home/abdullah-fieldwork-diet-sampling.jpg){fig-alt="A researcher measuring a fish on a wooden board outdoors, with sample bags visible nearby."}
+
+![Field sampling for crayfish availability on an Oregon river](assets/images/field/abdullah-crayfish-sampling-river.jpg){fig-alt="A researcher wearing waders in a river, examining a mesh trap over a sorting tray."}
+
+![Crayfish collected during trapping](assets/images/field/crayfish-trap-catch.jpg){fig-alt="A researcher crouches beside a wire mesh trap holding one crayfish, with several more visible inside the trap."}
+
+![Crayfish collected during capture–mark–recapture availability sampling](assets/images/field/crayfish-cmr-sampling.jpg){fig-alt="Several crayfish with small marked dots on their carapace, arranged in a white sorting tray."}
+
+![Smallmouth Bass held during field sampling](assets/images/species/smallmouth-bass.jpg){fig-alt="A Smallmouth Bass held in hand during field sampling on an Oregon river."}
+
+![Multi-tank system used for predator–prey trials](assets/images/lab/predator-prey-tank-system.jpg){fig-alt="A rack of blue opaque experimental tanks stacked in rows in a laboratory."}
+
+![Laboratory work at Oregon State University](assets/images/lab/abdullah-lab-osu.jpg){fig-alt="A researcher wearing a lab coat and safety glasses in a laboratory."}
+:::

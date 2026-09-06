@@ -1,6 +1,8 @@
 ---
 title: "Projects"
 description-meta: "Research projects, analyses, and tools by Abdullah Alkinani."
+description: "Research projects, analyses, and tools by Abdullah Alkinani."
+hide-description: true
 ---
 
 Work that sits alongside the dissertation: analyses, datasets, and tools that
@@ -8,34 +10,44 @@ are useful on their own.
 
 ## Smallmouth Bass × crayfish predation
 
+![](assets/images/lab/predator-prey-tank-system.jpg){fig-alt="A rack of blue opaque experimental tanks used for predator-prey trials." width="45%"}
+
 Laboratory predator–prey trials quantifying how Smallmouth Bass select
 between native Signal Crayfish and non-native Ringed Crayfish. Feeds
-[Chapter 2](research.qmd).
+[Chapter 2](research.qmd#laboratory-predatorprey-trials-smallmouth-bass-and-crayfish).
 
-*Status: data collection ongoing.*
+*Status: pilot-phase trials underway to finalize the protocol.*
 
 ## Crayfish thermal preference
 
-Controlled thermal-gradient trials comparing preferred temperature and
-activity between Signal and Ringed Crayfish. Feeds [Chapter 3](research.qmd).
+![](assets/images/lab/thermal-preference-apparatus.jpg){fig-alt="Overhead photo of the empty two-channel thermal-choice tank." width="45%"}
 
-*Status: data collection ongoing.*
+Thermal-choice trials comparing short-term behavioral response to a warm/cool
+input between Signal and Ringed Crayfish. Feeds
+[Chapter 3](research.qmd#thermal-preference-and-shelter-competition-between-native-and-non-native-crayfish).
+
+*Status: pilot trials active (13 of a planned 30–36 completed).*
 
 ## Native–non-native crayfish competition
 
-Interspecific shelter-competition experiments testing how temperature
-changes dominance and displacement between the two species. Feeds
-[Chapter 3](research.qmd).
+![](assets/figures/ch3-competition-design.svg){fig-alt="Diagram of the planned 2 by 2 factorial shelter-competition design, marked as not yet started." width="45%"}
 
-*Status: data collection ongoing.*
+Planned interspecific shelter-competition experiment testing how temperature
+changes dominance and displacement between the two species. Feeds
+[Chapter 3](research.qmd#thermal-preference-and-shelter-competition-between-native-and-non-native-crayfish).
+
+*Status: design complete; no trials conducted yet.*
 
 ## Umpqua River field sampling
 
+![](assets/images/field/abdullah-crayfish-sampling-river.jpg){fig-alt="A researcher wearing waders in a river, examining a mesh trap over a sorting tray." width="45%"}
+
 Diet, crayfish availability, and thermal habitat sampling across the Umpqua
 River basin, pairing Bass Bash stomach collections with standardized crayfish
-trapping. Feeds [Chapter 1](research.qmd).
+trapping. Feeds
+[Chapter 1](research.qmd#trophic-ecology-of-smallmouth-bass-in-two-oregon-rivers).
 
-*Status: ongoing.*
+*Status: sample collection ongoing; species-level processing underway.*
 
 ## Saudi fisheries and marine trophic analyses
 
@@ -53,7 +65,8 @@ for non-native aquatic organisms in Riyadh's urban lakes. See
 ## Reproducible analysis workflows
 
 R and Quarto pipelines that take raw field data through models, figures, and
-tables to a rendered document, so an analysis can be rerun end to end.
+tables to a rendered document, so an analysis can be rerun end to end. See
+[Data & Code](data-code.qmd).
 
 *Status: ongoing.*
 

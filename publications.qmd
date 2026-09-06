@@ -1,6 +1,8 @@
 ---
 title: "Publications"
 description-meta: "Peer-reviewed publications and manuscripts by Abdullah Alkinani on fisheries, aquatic invasions, and environmental management."
+description: "Peer-reviewed publications and manuscripts by Abdullah Alkinani on fisheries, aquatic invasions, and environmental management."
+hide-description: true
 bibliography: references.bib
 nocite: |
   @*

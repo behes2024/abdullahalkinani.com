@@ -1,7 +1,7 @@
-# abdullahalkinani.com
+# abdullahalkinani.org
 
 Personal academic website for Abdullah Alkinani, built with [Quarto](https://quarto.org)
-and published with GitHub Pages.
+and published with GitHub Pages at the custom domain abdullahalkinani.org.
 
 ## Local preview
 
@@ -11,33 +11,39 @@ quarto preview
 
 ## Publish
 
+Pushing to `main` triggers `.github/workflows/publish.yml`, which renders and
+deploys the site automatically. To publish manually instead:
+
 ```bash
 quarto publish gh-pages
 ```
 
-## Before the first publish, replace these placeholders
-
-- [x] email, LinkedIn — done
-- [ ] ORCID iD `0000-0000-0000-0000` (index.qmd, contact.qmd, publications.qmd, includes/jsonld.html)
-- [ ] Google Scholar and ResearchGate URLs (still `#`)
-- [ ] `assets/profile.jpg` — replace the placeholder with a real photo
-- [ ] `assets/favicon.png` — replace with your own icon
-- [x] `assets/Alkinani-CV.pdf` — added
-- [ ] `references.bib` — delete the example entry after adding a real one
-- [ ] `site-url` in `_quarto.yml` — switch to the custom domain once it is connected
-
 ## Structure
 
 ```
-_quarto.yml        site config, navbar, theme
-index.qmd          home / identity page
-research.qmd       research program and chapters
-publications.qmd   generated from references.bib
-projects.qmd       projects
-cv.qmd             CV
-contact.qmd        contact
-styles.scss        theme overrides
+_quarto.yml           site config, navbar, theme
+index.qmd             home / about page
+research.qmd          research program and chapters
+publications.qmd      generated from references.bib
+projects.qmd          projects
+data-code.qmd         data and code availability
+cv.qmd                CV
+contact.qmd           contact
+styles.scss           theme overrides
 includes/jsonld.html  Schema.org Person markup + fonts
-references.bib     bibliography (export from Zotero)
-assets/            images, CV PDF
+includes/canonical.lua Lua filter adding a per-page canonical URL
+references.bib        bibliography (export from Zotero)
+assets/                images, figures, CV PDF (public)
+assets/images/          real field/lab photographs, organized by section
+assets/figures/         generated SVG diagrams and maps
+.image-source/          local-only source photos and working files — gitignored, never published
 ```
+
+## Content policy
+
+Raw research data (spreadsheets, the internal dissertation proposal) and
+full-resolution source photos live only in `assets/*.xlsx` and
+`.image-source/`, both excluded from git via `.gitignore`. Only reviewed,
+EXIF-stripped copies go into `assets/images/`. See the chapter descriptions
+in `research.qmd` for what is confirmed/active vs. planned — keep that
+distinction accurate when updating chapter text.

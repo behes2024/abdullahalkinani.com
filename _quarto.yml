@@ -1,17 +1,16 @@
 project:
   type: website
   output-dir: _site
-  # After you buy the domain, create a file named CNAME (one line: abdullahalkinani.com)
-  # and uncomment the two lines below so it survives every render.
-  # resources:
-  #   - CNAME
+  resources:
+    - CNAME
 
 website:
   title: "Abdullah Alkinani"
   description: "Fisheries Scientist and Aquatic Ecologist. PhD Researcher at Oregon State University working on freshwater invasions, predator-prey interactions, and fish-crayfish ecology."
-  # Change to https://abdullahalkinani.com once the domain is connected.
   site-url: https://abdullahalkinani.org
   favicon: assets/favicon.png
+  image: assets/profile.jpg
+  image-alt: "Portrait of Abdullah Alkinani, fisheries scientist and aquatic ecologist"
   open-graph: true
   twitter-card: true
   search: true
@@ -56,6 +55,8 @@ format:
     smooth-scroll: true
     link-external-newwindow: true
     include-in-header: includes/jsonld.html
+    filters:
+      - includes/canonical.lua
     grid:
       body-width: 860px
 
