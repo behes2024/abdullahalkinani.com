@@ -1,60 +1,113 @@
 ---
 title: "Research"
-description-meta: "Dissertation research on trophic interactions among Smallmouth Bass, invasive Ringed Crayfish, and native Signal Crayfish in Oregon rivers."
+description-meta: "Dissertation research on ecological interactions among non-native Smallmouth Bass, native Signal Crayfish, and non-native Ringed Crayfish in Oregon river systems."
 ---
 
 ## Research program
 
-Two invaders now overlap with a native species in Oregon rivers. Non-native
-Smallmouth Bass are established predators in the Willamette and Umpqua systems;
-invasive Ringed Crayfish (*Faxonius neglectus*) are spreading into the range of
-native Signal Crayfish (*Pacifastacus leniusculus*). My dissertation asks whether
-predation by one non-native species alters the establishment of another — an
-invasive-on-invasive biotic resistance framing — and what that means for the native
-crayfish caught in the middle.
+Freshwater invasions rarely happen in isolation. In Oregon rivers, non-native
+Smallmouth Bass (*Micropterus dolomieu*) interact with both native Signal
+Crayfish (*Pacifastacus leniusculus*) and the expanding non-native Ringed
+Crayfish (*Faxonius neglectus*). My dissertation examines these interactions
+across three linked studies — from diet patterns and prey availability in the
+field, to predator–prey mechanisms in the laboratory, to how temperature
+shapes competition between the two crayfish species.
 
-The three chapters move from what is eaten in the field, to why, to where it matters.
+The question running through all three chapters: can interactions among
+non-native species alter the course of a biological invasion, and what does
+that mean for the native species caught between them?
+
+## Study species
+
+::: {.species-grid}
+::: {.species-card}
+**Smallmouth Bass**\
+*Micropterus dolomieu*
+
+Non-native predator established in the Willamette and Umpqua Rivers, and the
+focal fish species in the diet and predator–prey research (Chapters 1–2).
+:::
+
+::: {.species-card}
+**Signal Crayfish**\
+*Pacifastacus leniusculus*
+
+Native crayfish of the Pacific Northwest, and the native prey and competitor
+species examined throughout the dissertation.
+:::
+
+::: {.species-card}
+**Ringed Crayfish**\
+*Faxonius neglectus*
+
+Non-native crayfish expanding into Oregon's Umpqua and Rogue basins, and the
+focal invader in the predator–prey and competition experiments (Chapters 2–3).
+:::
+:::
 
 ## Dissertation chapters
 
 ::: {.chapter}
 [Chapter 1]{.status}
 
-### Diet and trophic position in the field
+### Trophic ecology of Smallmouth Bass in two Oregon rivers
 
-**Research question.** What do Smallmouth Bass eat across the invasion front, and
-how much of that diet is crayfish?
+**Research questions.**
 
-**Approach.** Field diet analysis paired with stable isotope work (δ¹³C and δ¹⁵N)
-to resolve trophic position and long-term resource use across sites in the
-Willamette and Umpqua basins.
+- How important are crayfish, relative to fish and invertebrates, in
+  Smallmouth Bass diets in the Willamette and Umpqua Rivers, and does that
+  pattern change across years?
+- In the Umpqua River, where Signal and Ringed Crayfish co-occur, does
+  Smallmouth Bass show species-specific electivity when diet is compared with
+  local crayfish availability?
+- How variable is diet composition among years within each river?
 
-*Placeholder: add a site map, sampling summary, and one representative figure here.*
+**Approach.** Diet samples come from the Willamette River Fish Decadal
+Assessment and the annual Umpqua Bass Bash, paired with a standardized
+capture–mark–recapture crayfish availability study across five Umpqua sites,
+sampled over four days each. Comparing stomach contents with local prey
+availability allows me to calculate Jacobs' electivity index (D) and test
+whether Smallmouth Bass select for Ringed over Signal Crayfish rather than
+simply consuming whichever is more available.
+
+**Study area.** The Willamette and Umpqua River basins, Oregon — two systems
+that differ in geomorphology, thermal regime, and crayfish assemblage,
+providing a natural contrast for these comparisons.
+
+*Figures in preparation: a study-area map, the field sampling design, and
+site photographs.*
 :::
 
 ::: {.chapter}
 [Chapter 2]{.status}
 
-### Temperature and predator–prey interactions
+### Laboratory predator–prey trials: Smallmouth Bass and crayfish
 
-[**How does temperature influence Smallmouth Bass predation on native Signal
-Crayfish and non-native Ringed Crayfish?**]{.question}
+[**When native Signal Crayfish and non-native Ringed Crayfish are offered at
+equal size and density, do Smallmouth Bass show a species-specific feeding
+preference — and how do temperature and refuge availability change that
+outcome?**]{.question}
 
-**Experimental design.** Controlled predation trials across a temperature gradient
-spanning conditions measured in the field (approximately 20–27 °C during June
-fieldwork at stations UMP001–UMP005).
+**Experimental design.** Trials run in parallel across a six-tank system,
+each tank a glass aquarium (120 × 40 × 50 cm) divided into three
+compartments that isolate the predator, a shared arena, and the prey until
+the trial begins. Each trial offers one Smallmouth Bass a simultaneous choice
+between a size-matched Signal and Ringed Crayfish. Bass are size-standardized
+(150–250 mm TL) and individually tracked across a maximum of two trials, with
+treatment order randomized and a 48-hour washout between trials.
 
-**Species studied.** *Micropterus dolomieu*, *Faxonius neglectus*,
-*Pacifastacus leniusculus*.
+**Measurements.** Predation occurrence, species consumed, attack latency,
+handling time, and refuge occupancy — recorded on video and used to test
+whether prey choice tracks optimal foraging (shorter handling time) rather
+than prey origin alone, and whether warmer water or reduced refuge changes
+predation rates or the direction of species-specific vulnerability.
 
-**Tank setup.** A three-compartment mesocosm (120 × 40 × 50 cm) separating the
-predator, a shared arena, and the crayfish, allowing controlled encounters and
-behavioral observation.
+**Preliminary observations.** Early trials show substantial individual
+variation in Smallmouth Bass feeding behavior, underscoring the value of
+repeated trials and standardized conditions before drawing conclusions about
+species-specific preference.
 
-**Methods.** Trial protocol, prey selection metrics, behavioral scoring, and the
-statistical models used to analyze consumption rates.
-
-*Placeholder: add tank photos, the schematic, and preliminary results here.*
+*Figures in preparation: the experimental tank system and design schematic.*
 
 Once published, this section will carry: publication · dataset · R code ·
 conference presentation · DOI.
@@ -63,29 +116,55 @@ conference presentation · DOI.
 ::: {.chapter}
 [Chapter 3]{.status}
 
-### Distribution and the range contact zone
+### Thermal effects on native–non-native crayfish competition
 
-**Research question.** Where do the two crayfish species actually meet, and what
-stream conditions predict overlap?
+**Research questions.**
 
-**Approach.** Spatial stream network modeling and distribution analysis. A national
-occurrence comparison found no shared hexagonal cells between *F. neglectus* and
-*P. leniusculus*, which makes the study reach a novel contact zone rather than a
-long-established one.
+- How does interspecific shelter competition between Signal and Ringed
+  Crayfish vary with relative body size and sex?
+- How does thermal context change activity levels, encounter rates, and the
+  strength of competitive asymmetry between the two species?
+- Does displacement from shelter measurably increase a crayfish's behavioral
+  exposure?
 
-*Placeholder: add distribution maps and model output here.*
+**Field component.** Umpqua Basin sites are classified into cold (≤18 °C),
+transitional (18–21 °C), and warm (≥21 °C) reaches using a modeled stream
+temperature dataset, validated with in-situ loggers, then sampled with
+standardized baited traps to characterize crayfish coexistence and
+catch-per-unit-effort by species, size, sex, and molt stage.
+
+**Competition experiments.** A fully factorial design crosses two
+temperatures (cool 17 °C, warm 23 °C) with two shelter levels — one refuge,
+forcing direct competition, versus two refuges — for size-matched Signal and
+Ringed Crayfish pairs, recording shelter dominance, aggression, and
+displacement over 60-minute video-recorded trials.
+
+**Thermal preference trials.** Individual crayfish are placed in a
+temperature-controlled apparatus and allowed to move freely between cool and
+warm zones, with position tracked on video to quantify preferred temperature,
+thermal niche breadth, and activity level for each species.
+
+Video from both experiments is scored in BORIS, with movement paths extracted
+using ToxTrac, Fiji/TrackMate, and DeepLabCut.
+
+```text
+   Cool zone  ←—————  Release  —————→  Warm zone
+    (17 °C)          compartment         (23 °C)
+
+  A crayfish enters at the release point and moves freely; position,
+  latency, and channel switches are tracked on video.
+```
+
+*Figures in preparation: the thermal apparatus schematic and site map.*
 :::
 
 ## Methods and tools
 
-| Area | Tools |
+| Area | Methods and tools |
 |---|---|
-| Field sampling | Diet collection, temperature loggers, site surveys |
-| Laboratory | Stable isotope analysis (δ¹³C, δ¹⁵N), mesocosm predation trials |
-| Quantitative | R, mixed models, spatial stream network models, species distribution modeling |
-| Reproducibility | Quarto, Git and GitHub, Zotero with Better BibTeX |
-
-## Field and lab gallery
-
-*Placeholder: add photographs to `assets/` and insert them here. Images do more for
-this page than any paragraph will.*
+| Field ecology | Smallmouth Bass diet sampling, crayfish trapping and hand sampling, habitat and substrate surveys |
+| Environmental monitoring | Modeled stream temperature (Siegel et al. 2023), in-situ temperature loggers |
+| Experimental ecology | Predator–prey choice trials, thermal-preference trials, interspecific competition trials |
+| Behavioral ecology | Video recording, BORIS behavioral coding, ToxTrac, Fiji/TrackMate, DeepLabCut |
+| Quantitative ecology | R, generalized and mixed-effects models, Jacobs' electivity index |
+| Reproducible science | Quarto, Git and GitHub, Zotero with Better BibTeX |

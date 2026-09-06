@@ -20,3 +20,11 @@ __pycache__/
 Thumbs.db
 
 **/*.quarto_ipynb
+
+# Raw/unpublished research data and internal documents — never publish these
+# on the public site or in the public repo (site coordinates, individual
+# specimen records, trial-level results, internal proposal draft).
+assets/*.xlsx
+assets/*.xls
+assets/*.csv
+assets/Abdullah proposal RLF4.docx

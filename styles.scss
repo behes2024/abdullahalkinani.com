@@ -84,6 +84,25 @@ p.subtitle {
   color: $ink;
 }
 
+// Study species cards on the Research page
+.species-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.species-card {
+  background: $surface;
+  border-radius: 4px;
+  padding: 1rem 1.25rem;
+  border-left: 3px solid $accent;
+}
+
+.species-card em {
+  color: $body-color;
+}
+
 blockquote {
   border-left: 3px solid $accent;
   color: $body-color;

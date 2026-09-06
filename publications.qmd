@@ -8,19 +8,25 @@ nocite: |
 
 Generated from a single BibTeX file. Every DOI below resolves to the published record.
 
-## Published
+## Peer-reviewed publications
 
 ::: {#refs}
 :::
 
-## In preparation
+## Manuscripts
 
-- Chapter 2 manuscript: temperature-dependent predation by Smallmouth Bass on
+- A coverage-qualified Marine Trophic Index for selected Saudi commercial
+  landing categories: basin-stratified estimates and taxonomic sensitivity.
+  *In preparation.*
+
+## Research in preparation
+
+- Chapter 1 manuscript: Smallmouth Bass diet, crayfish availability, and
+  electivity in two Oregon rivers. *In preparation.*
+- Chapter 2 manuscript: predator–prey trials between Smallmouth Bass and
   native and non-native crayfish. *In preparation.*
-
-## Conference presentations
-
-*Add talks and posters here as they happen: title, meeting, location, year.*
+- Chapter 3 manuscript: thermal effects on native–non-native crayfish
+  competition. *In preparation.*
 
 ## Where else to find this list
 

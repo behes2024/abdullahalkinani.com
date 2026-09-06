@@ -41,16 +41,45 @@ Behavioral Ecology · R
 
 ## What I work on
 
-My dissertation examines how non-native Smallmouth Bass (*Micropterus dolomieu*),
-invasive Ringed Crayfish (*Faxonius neglectus*), and native Signal Crayfish
-(*Pacifastacus leniusculus*) interact in the Willamette and Umpqua River systems,
-and whether one invader can slow another. The work combines field diet analysis,
-stable isotopes, mesocosm experiments, and spatial stream network modeling.
+My dissertation examines ecological interactions among non-native Smallmouth
+Bass (*Micropterus dolomieu*), native Signal Crayfish (*Pacifastacus
+leniusculus*), and non-native Ringed Crayfish (*Faxonius neglectus*) in
+Oregon river systems.
+
+The work combines field diet and prey-availability sampling, controlled
+predator–prey experiments, thermal-preference trials, video-based behavioral
+analysis, and quantitative ecological methods to test whether interactions
+among non-native species can alter the course of a biological invasion while
+affecting the native species caught in between.
 
 [Read more about the research →](research.qmd)
 
 ## Currently
 
-- Completing three dissertation chapters; expected graduation March 2027.
-- Running temperature-controlled predation trials in a three-compartment mesocosm system.
-- Building reproducible analysis pipelines in R and Quarto.
+- Completing the experimental and field components of my PhD dissertation at
+  Oregon State University.
+- Running laboratory predation trials examining Smallmouth Bass interactions
+  with native Signal Crayfish and non-native Ringed Crayfish.
+- Conducting thermal-preference and competition trials between Signal and
+  Ringed Crayfish using controlled experiments and video-based behavioral
+  analysis.
+- Expanding field sampling across the Umpqua River system to characterize
+  crayfish availability and thermal habitat.
+- Building reproducible ecological data-analysis workflows in R, Quarto, Git,
+  and GitHub.
+
+## Research interests
+
+::: {.keywords}
+Freshwater Ecology · Biological Invasions · Fisheries Ecology · Crayfish
+Ecology · Predator–Prey Interactions · Behavioral Ecology · Thermal Ecology ·
+Species Interactions · Aquatic Conservation · Environmental Change
+:::
+
+## Geographic focus
+
+**Oregon, USA** — Willamette River Basin, Umpqua River Basin, and Pacific
+Northwest freshwater ecosystems.
+
+**Saudi Arabia** — Freshwater biodiversity, marine and fisheries ecology,
+aquatic conservation, and environmental monitoring.

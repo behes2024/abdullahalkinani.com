@@ -3,30 +3,59 @@ title: "Projects"
 description-meta: "Research projects, analyses, and tools by Abdullah Alkinani."
 ---
 
-Work that sits alongside the dissertation: analyses, datasets, and tools that are
-useful on their own.
+Work that sits alongside the dissertation: analyses, datasets, and tools that
+are useful on their own.
 
-## Saudi fisheries statistics analysis
+## Smallmouth Bass × crayfish predation
 
-Analysis of national fisheries and aquaculture statistics, aimed at describing
-production trends and their implications for marine resource management and the
-Blue Economy.
+Laboratory predator–prey trials quantifying how Smallmouth Bass select
+between native Signal Crayfish and non-native Ringed Crayfish. Feeds
+[Chapter 2](research.qmd).
 
-*Status: in progress. Add outputs, figures, and any resulting manuscript here.*
+*Status: data collection ongoing.*
 
-## Crayfish distribution and contact zones
+## Crayfish thermal preference
 
-Spatial analysis of *Faxonius neglectus* and *Pacifastacus leniusculus* occurrence
-records to identify where the two ranges meet.
+Controlled thermal-gradient trials comparing preferred temperature and
+activity between Signal and Ringed Crayfish. Feeds [Chapter 3](research.qmd).
 
-*Status: feeds Chapter 3. Add maps and code links here.*
+*Status: data collection ongoing.*
+
+## Native–non-native crayfish competition
+
+Interspecific shelter-competition experiments testing how temperature
+changes dominance and displacement between the two species. Feeds
+[Chapter 3](research.qmd).
+
+*Status: data collection ongoing.*
+
+## Umpqua River field sampling
+
+Diet, crayfish availability, and thermal habitat sampling across the Umpqua
+River basin, pairing Bass Bash stomach collections with standardized crayfish
+trapping. Feeds [Chapter 1](research.qmd).
+
+*Status: ongoing.*
+
+## Saudi fisheries and marine trophic analyses
+
+Analyses of Saudi national fisheries statistics and marine trophic structure,
+aimed at describing production trends and their implications for marine
+resource management and the Blue Economy. See [Publications](publications.qmd)
+for the associated manuscript.
+
+## Citizen science and freshwater invertebrates in Saudi Arabia
+
+Using citizen-science records to identify potential aquarium-release hotspots
+for non-native aquatic organisms in Riyadh's urban lakes. See
+[Publications](publications.qmd).
 
 ## Reproducible analysis workflows
 
-R and Quarto pipelines that take raw field data through models, figures, and tables
-to a rendered document, so an analysis can be rerun end to end.
+R and Quarto pipelines that take raw field data through models, figures, and
+tables to a rendered document, so an analysis can be rerun end to end.
 
-*Status: ongoing. Link public repositories here.*
+*Status: ongoing.*
 
 ## Interactive research framework
 
