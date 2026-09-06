@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="ov-title ov-desc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+  <title id="ov-title">Dissertation overview</title>
+  <desc id="ov-desc">Oregon river systems host non-native Smallmouth Bass, which interact with native Signal Crayfish and non-native Ringed Crayfish. Three chapters examine this system: field diet and electivity, predator-prey trials, and thermal preference and competition, converging on understanding species interactions under environmental variation.</desc>
+
+  <style>
+    .ink   { fill:#12242c; }
+    .body  { fill:#35474e; }
+    .accent{ fill:#17636f; }
+    .surf  { fill:#f2f6f6; stroke:#d6e0e0; }
+    .rule  { stroke:#d6e0e0; stroke-width:1; }
+    .arrow { stroke:#5d7078; stroke-width:1.6; fill:none; marker-end:url(#arrow); }
+    text   { fill:#12242c; }
+    .label { font-size:15px; font-weight:600; }
+    .small { font-size:12.5px; fill:#35474e; }
+    .sp    { font-style:italic; font-size:12px; fill:#5d7078; }
+  </style>
+
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#5d7078"/>
+    </marker>
+  </defs>
+
+  <!-- Top: system -->
+  <rect x="300" y="14" width="300" height="46" rx="4" class="surf"/>
+  <text x="450" y="42" text-anchor="middle" class="label">Oregon river systems</text>
+
+  <line x1="450" y1="60" x2="450" y2="90" class="arrow"/>
+
+  <rect x="300" y="92" width="300" height="52" rx="4" class="surf"/>
+  <text x="450" y="115" text-anchor="middle" class="label">Smallmouth Bass</text>
+  <text x="450" y="133" text-anchor="middle" class="sp">Micropterus dolomieu (non-native)</text>
+
+  <line x1="450" y1="144" x2="450" y2="172" class="arrow"/>
+
+  <!-- Signal vs Ringed -->
+  <rect x="120" y="174" width="230" height="58" rx="4" class="surf"/>
+  <text x="235" y="197" text-anchor="middle" class="label">Signal Crayfish</text>
+  <text x="235" y="213" text-anchor="middle" class="sp">Pacifastacus leniusculus</text>
+  <text x="235" y="227" text-anchor="middle" class="small">native</text>
+
+  <rect x="550" y="174" width="230" height="58" rx="4" class="surf"/>
+  <text x="665" y="197" text-anchor="middle" class="label">Ringed Crayfish</text>
+  <text x="665" y="213" text-anchor="middle" class="sp">Faxonius neglectus</text>
+  <text x="665" y="227" text-anchor="middle" class="small">non-native</text>
+
+  <line x1="350" y1="203" x2="550" y2="203" class="rule" stroke-dasharray="3,3"/>
+  <text x="450" y="199" text-anchor="middle" class="small">interactions</text>
+
+  <line x1="235" y1="232" x2="235" y2="252" class="arrow"/>
+  <line x1="665" y1="232" x2="665" y2="252" class="arrow"/>
+  <line x1="450" y1="144" x2="235" y2="252" class="arrow" opacity="0"/>
+
+  <!-- connecting lines down to chapters -->
+  <path d="M235,232 L235,270 L170,290" class="arrow"/>
+  <path d="M235,232 L235,270 L450,290" class="arrow"/>
+  <path d="M665,232 L665,270 L730,290" class="arrow"/>
+  <path d="M665,232 L665,270 L450,290" class="arrow"/>
+
+  <!-- Chapters -->
+  <rect x="40" y="294" width="240" height="150" rx="4" class="surf"/>
+  <text x="160" y="320" text-anchor="middle" class="label">Chapter 1</text>
+  <line x1="70" y1="330" x2="250" y2="330" class="rule"/>
+  <text x="160" y="352" text-anchor="middle" class="small">Field diet</text>
+  <text x="160" y="372" text-anchor="middle" class="small">Crayfish availability</text>
+  <text x="160" y="392" text-anchor="middle" class="small">Prey electivity</text>
+
+  <rect x="330" y="294" width="240" height="150" rx="4" class="surf"/>
+  <text x="450" y="320" text-anchor="middle" class="label">Chapter 2</text>
+  <line x1="360" y1="330" x2="540" y2="330" class="rule"/>
+  <text x="450" y="352" text-anchor="middle" class="small">Predator–prey trials</text>
+  <text x="450" y="372" text-anchor="middle" class="small">Prey choice</text>
+  <text x="450" y="392" text-anchor="middle" class="small">Behavior</text>
+
+  <rect x="620" y="294" width="240" height="150" rx="4" class="surf"/>
+  <text x="740" y="320" text-anchor="middle" class="label">Chapter 3</text>
+  <line x1="650" y1="330" x2="830" y2="330" class="rule"/>
+  <text x="740" y="352" text-anchor="middle" class="small">Thermal preference</text>
+  <text x="740" y="372" text-anchor="middle" class="small">Competition</text>
+  <text x="740" y="392" text-anchor="middle" class="small">Temperature-mediated</text>
+  <text x="740" y="410" text-anchor="middle" class="small">interactions</text>
+
+  <!-- converge -->
+  <path d="M160,444 L160,470 L450,494" class="arrow"/>
+  <path d="M450,444 L450,494" class="arrow"/>
+  <path d="M740,444 L740,470 L450,494" class="arrow"/>
+
+  <rect x="200" y="500" width="500" height="70" rx="4" fill="#0e454e"/>
+  <text x="450" y="530" text-anchor="middle" class="label" fill="#f2f6f6">Understanding species interactions</text>
+  <text x="450" y="550" text-anchor="middle" class="label" fill="#f2f6f6">under environmental variation</text>
+
+  <text x="450" y="600" text-anchor="middle" class="small" fill="#5d7078">Dissertation overview — Abdullah Alkinani, Oregon State University</text>
+</svg>

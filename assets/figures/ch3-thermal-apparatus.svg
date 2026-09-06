@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 460" role="img" aria-labelledby="th-title th-desc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+  <title id="th-title">Thermal-choice apparatus, top view</title>
+  <desc id="th-desc">Top-view schematic of the two-channel thermal-choice tank: a warm channel and a cool channel separated by a center divider that stops short of one end, forming a shared junction. A crayfish is introduced at the junction after acclimation and can move freely between the warm channel, the junction, and the cool channel while position and temperature are recorded on video.</desc>
+
+  <style>
+    .label{font-size:14.5px; font-weight:600; fill:#12242c;}
+    .small{font-size:12.5px; fill:#35474e;}
+    .tiny{font-size:11px; fill:#5d7078;}
+    .warm{fill:#f4d9c6; stroke:#c97b3d;}
+    .cool{fill:#cfe3ea; stroke:#3d8fa8;}
+    .junction{fill:#eef1ee; stroke:#9aa6a6;}
+    .wall{fill:none; stroke:#12242c; stroke-width:3;}
+    .arrow{stroke:#5d7078; stroke-width:1.6; fill:none; marker-end:url(#a4);}
+  </style>
+  <defs>
+    <marker id="a4" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#5d7078"/>
+    </marker>
+  </defs>
+
+  <!-- outer tank -->
+  <rect x="120" y="40" width="460" height="300" rx="6" class="wall" fill="#ffffff"/>
+
+  <!-- warm channel (left half minus junction strip at bottom) -->
+  <rect x="123" y="43" width="222" height="234" class="warm"/>
+  <!-- cool channel (right half minus junction strip at bottom) -->
+  <rect x="355" y="43" width="222" height="234" class="cool"/>
+  <!-- junction (bottom shared strip) -->
+  <rect x="123" y="277" width="454" height="60" class="junction"/>
+
+  <!-- center divider (stops short of junction) -->
+  <line x1="350" y1="40" x2="350" y2="277" class="wall"/>
+
+  <!-- labels -->
+  <text x="234" y="70" text-anchor="middle" class="label">Warm channel</text>
+  <text x="234" y="88" text-anchor="middle" class="tiny">warm reservoir inflow</text>
+  <path d="M234,95 L234,120" class="arrow"/>
+
+  <text x="466" y="70" text-anchor="middle" class="label">Cool channel</text>
+  <text x="466" y="88" text-anchor="middle" class="tiny">cool reservoir inflow</text>
+  <path d="M466,95 L466,120" class="arrow"/>
+
+  <!-- temperature loggers -->
+  <circle cx="180" cy="200" r="6" fill="#c97b3d"/>
+  <text x="192" y="204" class="tiny">logger (warm)</text>
+  <circle cx="520" cy="200" r="6" fill="#3d8fa8"/>
+  <text x="440" y="204" text-anchor="end" class="tiny">logger (cool)</text>
+
+  <!-- junction / release point -->
+  <circle cx="350" cy="307" r="7" fill="#12242c"/>
+  <text x="350" y="330" text-anchor="middle" class="small">Release point (junction)</text>
+
+  <!-- movement arrows after release -->
+  <path d="M340,300 C300,260 260,220 234,180" class="arrow" stroke-dasharray="4,3"/>
+  <path d="M360,300 C400,260 440,220 466,180" class="arrow" stroke-dasharray="4,3"/>
+  <text x="350" y="358" text-anchor="middle" class="tiny">Free movement between channels after a 3-minute acclimation period</text>
+
+  <!-- camera icon -->
+  <g transform="translate(600,60)">
+    <rect x="0" y="0" width="46" height="30" rx="4" fill="#0e454e"/>
+    <circle cx="23" cy="15" r="9" fill="#f2f6f6"/>
+    <text x="23" y="48" text-anchor="middle" class="tiny">video</text>
+  </g>
+
+  <text x="350" y="380" text-anchor="middle" class="small">Top view — center divider stops short of one end, forming a shared junction</text>
+  <text x="350" y="400" text-anchor="middle" class="tiny">20-minute recording period analyzed in four 5-minute windows (0–5, 5–10, 10–15, 15–20 min)</text>
+  <text x="350" y="420" text-anchor="middle" class="tiny">Short-term behavioral response assay — not an estimate of long-term preferred temperature</text>
+  <text x="350" y="444" text-anchor="middle" class="tiny" fill="#5d7078">Chapter 3, Track 1 — thermal-choice pilot trials</text>
+</svg>
