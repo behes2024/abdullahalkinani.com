@@ -1,101 +1,31 @@
 [
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "Two invaders now overlap with a native species in Oregon rivers. Non-native Smallmouth Bass are established predators in the Willamette and Umpqua systems; invasive Ringed Crayfish (Faxonius neglectus) are spreading into the range of native Signal Crayfish (Pacifastacus leniusculus). My dissertation asks whether predation by one non-native species alters the establishment of another — an invasive-on-invasive biotic resistance framing — and what that means for the native crayfish caught in the middle.\nThe three chapters move from what is eaten in the field, to why, to where it matters."
-  },
-  {
-    "objectID": "research.html#research-program",
-    "href": "research.html#research-program",
-    "title": "Research",
-    "section": "",
-    "text": "Two invaders now overlap with a native species in Oregon rivers. Non-native Smallmouth Bass are established predators in the Willamette and Umpqua systems; invasive Ringed Crayfish (Faxonius neglectus) are spreading into the range of native Signal Crayfish (Pacifastacus leniusculus). My dissertation asks whether predation by one non-native species alters the establishment of another — an invasive-on-invasive biotic resistance framing — and what that means for the native crayfish caught in the middle.\nThe three chapters move from what is eaten in the field, to why, to where it matters."
-  },
-  {
-    "objectID": "research.html#dissertation-chapters",
-    "href": "research.html#dissertation-chapters",
-    "title": "Research",
-    "section": "Dissertation chapters",
-    "text": "Dissertation chapters\n\nChapter 1\n\nDiet and trophic position in the field\nResearch question. What do Smallmouth Bass eat across the invasion front, and how much of that diet is crayfish?\nApproach. Field diet analysis paired with stable isotope work (δ¹³C and δ¹⁵N) to resolve trophic position and long-term resource use across sites in the Willamette and Umpqua basins.\nPlaceholder: add a site map, sampling summary, and one representative figure here.\n\n\n\nChapter 2\n\nTemperature and predator–prey interactions\nHow does temperature influence Smallmouth Bass predation on native Signal Crayfish and non-native Ringed Crayfish?\nExperimental design. Controlled predation trials across a temperature gradient spanning conditions measured in the field (approximately 20–27 °C during June fieldwork at stations UMP001–UMP005).\nSpecies studied. Micropterus dolomieu, Faxonius neglectus, Pacifastacus leniusculus.\nTank setup. A three-compartment mesocosm (120 × 40 × 50 cm) separating the predator, a shared arena, and the crayfish, allowing controlled encounters and behavioral observation.\nMethods. Trial protocol, prey selection metrics, behavioral scoring, and the statistical models used to analyze consumption rates.\nPlaceholder: add tank photos, the schematic, and preliminary results here.\nOnce published, this section will carry: publication · dataset · R code · conference presentation · DOI.\n\n\n\nChapter 3\n\nDistribution and the range contact zone\nResearch question. Where do the two crayfish species actually meet, and what stream conditions predict overlap?\nApproach. Spatial stream network modeling and distribution analysis. A national occurrence comparison found no shared hexagonal cells between F. neglectus and P. leniusculus, which makes the study reach a novel contact zone rather than a long-established one.\nPlaceholder: add distribution maps and model output here."
-  },
-  {
-    "objectID": "research.html#methods-and-tools",
-    "href": "research.html#methods-and-tools",
-    "title": "Research",
-    "section": "Methods and tools",
-    "text": "Methods and tools\n\n\n\n\n\n\n\nArea\nTools\n\n\n\n\nField sampling\nDiet collection, temperature loggers, site surveys\n\n\nLaboratory\nStable isotope analysis (δ¹³C, δ¹⁵N), mesocosm predation trials\n\n\nQuantitative\nR, mixed models, spatial stream network models, species distribution modeling\n\n\nReproducibility\nQuarto, Git and GitHub, Zotero with Better BibTeX"
-  },
-  {
-    "objectID": "research.html#field-and-lab-gallery",
-    "href": "research.html#field-and-lab-gallery",
-    "title": "Research",
-    "section": "Field and lab gallery",
-    "text": "Field and lab gallery\nPlaceholder: add photographs to assets/ and insert them here. Images do more for this page than any paragraph will."
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Work that sits alongside the dissertation: analyses, datasets, and tools that are useful on their own."
-  },
-  {
-    "objectID": "projects.html#saudi-fisheries-statistics-analysis",
-    "href": "projects.html#saudi-fisheries-statistics-analysis",
-    "title": "Projects",
-    "section": "Saudi fisheries statistics analysis",
-    "text": "Saudi fisheries statistics analysis\nAnalysis of national fisheries and aquaculture statistics, aimed at describing production trends and their implications for marine resource management and the Blue Economy.\nStatus: in progress. Add outputs, figures, and any resulting manuscript here."
-  },
-  {
-    "objectID": "projects.html#crayfish-distribution-and-contact-zones",
-    "href": "projects.html#crayfish-distribution-and-contact-zones",
-    "title": "Projects",
-    "section": "Crayfish distribution and contact zones",
-    "text": "Crayfish distribution and contact zones\nSpatial analysis of Faxonius neglectus and Pacifastacus leniusculus occurrence records to identify where the two ranges meet.\nStatus: feeds Chapter 3. Add maps and code links here."
-  },
-  {
-    "objectID": "projects.html#reproducible-analysis-workflows",
-    "href": "projects.html#reproducible-analysis-workflows",
-    "title": "Projects",
-    "section": "Reproducible analysis workflows",
-    "text": "Reproducible analysis workflows\nR and Quarto pipelines that take raw field data through models, figures, and tables to a rendered document, so an analysis can be rerun end to end.\nStatus: ongoing. Link public repositories here."
-  },
-  {
-    "objectID": "projects.html#interactive-research-framework",
-    "href": "projects.html#interactive-research-framework",
-    "title": "Projects",
-    "section": "Interactive research framework",
-    "text": "Interactive research framework\nA browser-based framework illustrating the bass–crayfish interaction system studied in this dissertation.\nView the framework"
-  },
-  {
     "objectID": "cv.html",
     "href": "cv.html",
     "title": "CV",
     "section": "",
-    "text": "Download PDF\nPut your CV file in assets/ named Alkinani-CV.pdf and this button works."
+    "text": "Download PDF Google Scholar"
   },
   {
     "objectID": "cv.html#education",
     "href": "cv.html#education",
     "title": "CV",
     "section": "Education",
-    "text": "Education\nPhD, Fisheries, Wildlife, and Conservation Sciences — Oregon State University, Corvallis, Oregon. Expected 2027. Advisor: Dr. Ivan Arismendi. Research focus: trophic interactions between non-native Smallmouth Bass and crayfish in Oregon river systems.\nMEd, Gifted Education (Summa Cum Laude) — Flinders University, Adelaide, Australia, 2019–2021. Thesis: a statistical study of the effects of electronic games on gifted students.\nBEd, Biology — King Khalid University, Abha, Saudi Arabia, 1994–1998. Project: survey of significant plant species of the Tihama and Asir regions."
+    "text": "Education\nPhD, Fisheries, Wildlife, and Conservation Sciences — Oregon State University, Corvallis, Oregon. Expected 2027. Major advisor: Dr. Ivan Arismendi. Graduate committee: Dr. Jonny Armstrong, Dr. Mike Burns, Dr. Rebecca Flitcroft (Pacific Northwest Research Station, USDA Forest Service); Graduate Council Representative: Dr. Ha-Yeon Cheong. Research focus: ecological interactions among non-native Smallmouth Bass, native Signal Crayfish, and non-native Ringed Crayfish in Oregon river systems.\nMEd, Gifted Education (Summa Cum Laude) — Flinders University, Adelaide, Australia, 2019–2021. Thesis: a statistical study of the effects of electronic games on gifted students.\nBEd, Biology — King Khalid University, Abha, Saudi Arabia, 1994–1998. Project: survey of significant plant species of the Tihama and Asir regions."
   },
   {
     "objectID": "cv.html#research-and-professional-experience",
     "href": "cv.html#research-and-professional-experience",
     "title": "CV",
     "section": "Research and professional experience",
-    "text": "Research and professional experience\nGraduate Researcher — Oregon State University, Corvallis, Oregon. Present. Field and experimental research on freshwater invasions and predator–prey dynamics; statistical analysis in R and spatial modeling of invasive species distributions; water quality and trophic analysis supporting conservation in the Willamette system.\nLecturer and Trainer, Environmental Sustainability — Principles of Environmental Sustainability Program, Qunfudhah, Saudi Arabia. May 2012 – September 2017. Trained conservation professionals and park rangers in ecological assessment and wildlife management; delivered technical workshops on water quality monitoring; contributed to conservation work in the Wadi Hali region.\nBiology Teacher — Ministry of Education, Makkah, Saudi Arabia. Since January 1999. Designed and taught inquiry-based biology curricula; integrated data analysis and spatial tools into classroom science; led development of an environmental science curriculum adopted by five regional schools; mentored students to regional and national science fair recognition."
+    "text": "Research and professional experience\nGraduate Researcher — Oregon State University, Corvallis, Oregon. Present. Field and experimental research on freshwater invasions and predator–prey dynamics; laboratory predation, thermal-preference, and competition trials with video-based behavioral analysis; statistical analysis in R supporting conservation-relevant questions in the Willamette and Umpqua systems.\nLecturer and Trainer, Environmental Sustainability — Principles of Environmental Sustainability Program, Qunfudhah, Saudi Arabia. May 2012 – September 2017. Trained conservation professionals and park rangers in ecological assessment and wildlife management; delivered technical workshops on water quality monitoring; contributed to conservation work in the Wadi Hali region.\nBiology Teacher — Ministry of Education, Makkah, Saudi Arabia. Since January 1999. Designed and taught inquiry-based biology curricula; integrated data analysis and spatial tools into classroom science; led development of an environmental science curriculum adopted by five regional schools; mentored students to regional and national science fair recognition."
   },
   {
     "objectID": "cv.html#skills",
     "href": "cv.html#skills",
     "title": "CV",
     "section": "Skills",
-    "text": "Skills\nQuantitative. R and RStudio, ecological modeling, mixed models, spatial stream network modeling, species distribution modeling, GIS (ArcGIS Pro), SPSS, experimental design.\nLaboratory and field. Stable isotope analysis, diet analysis, mesocosm design and operation, water quality measurement (pH, dissolved oxygen, conductivity, nitrates), taxonomy and species identification, microscopy, dissection and anatomical analysis, temperature logger deployment.\nReproducibility. Quarto, Git and GitHub, Zotero with Better BibTeX.\nTeaching. Curriculum development, inquiry-based science teaching, STEM education, differentiated instruction, e-learning and virtual labs, scientific mentoring.\nLanguages. Arabic (native), English (fluent)."
+    "text": "Skills\nQuantitative. R and RStudio, generalized and mixed-effects models, Jacobs’ electivity index, GIS (ArcGIS Pro), SPSS, experimental design.\nBehavioral and video analysis. BORIS behavioral coding, ToxTrac, Fiji/TrackMate, DeepLabCut.\nLaboratory and field. Fish diet analysis, crayfish trapping and hand sampling, predator–prey and thermal-preference experimental design, water quality measurement (pH, dissolved oxygen, conductivity, nitrates), taxonomy and species identification, microscopy, dissection and anatomical analysis, temperature logger deployment.\nReproducibility. Quarto, Git and GitHub, Zotero with Better BibTeX.\nTeaching. Curriculum development, inquiry-based science teaching, STEM education, differentiated instruction, e-learning and virtual labs, scientific mentoring.\nLanguages. Arabic (native), English (fluent)."
   },
   {
     "objectID": "cv.html#certifications-and-professional-development",
@@ -109,28 +39,84 @@
     "href": "cv.html#awards-and-funding",
     "title": "CV",
     "section": "Awards and funding",
-    "text": "Awards and funding\nScholarship, Ministry of Education, Saudi Arabia — doctoral study at Oregon State University.\nAdd other awards and grants here."
+    "text": "Awards and funding\nDoctoral scholarship, Saudi Arabian Cultural Mission (SACM) and the Ministry of Education, Saudi Arabia — PhD study at Oregon State University."
   },
   {
-    "objectID": "cv.html#service",
-    "href": "cv.html#service",
+    "objectID": "cv.html#research-permits-and-approvals",
+    "href": "cv.html#research-permits-and-approvals",
     "title": "CV",
-    "section": "Service",
-    "text": "Service\nAdd peer review, committees, and outreach here."
+    "section": "Research permits and approvals",
+    "text": "Research permits and approvals\nFish and crayfish collection authorized under scientific take permits (NMFS Section 10–27264; ODFW 26416); animal handling conducted under OSU and OSU/USDA Forest Service Institutional Animal Care and Use Committee approvals (OSU IACUC 4379; OSU/USDA Forest Service 2023-0380)."
   },
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
+    "objectID": "data-code.html",
+    "href": "data-code.html",
+    "title": "Data & Code",
     "section": "",
-    "text": "I am open to collaboration on freshwater invasions, predator–prey ecology, and fisheries data analysis, and to conversations about marine and freshwater resource management.\nEmail. alkinana@oregonstate.edu\nDepartment. Fisheries, Wildlife, and Conservation Sciences, Oregon State University, Corvallis, Oregon."
+    "text": "I am committed to reproducible ecological research. Datasets, analysis code, and supporting materials for completed projects will be archived here as they become available, typically alongside the associated publication."
   },
   {
-    "objectID": "contact.html#elsewhere",
-    "href": "contact.html#elsewhere",
-    "title": "Contact",
-    "section": "Elsewhere",
-    "text": "Elsewhere\n\nORCID\nGoogle Scholar\nLinkedIn\nResearchGate\nGitHub\nOSU department profile"
+    "objectID": "data-code.html#smallmouth-bass-diet-and-electivity-chapter-1",
+    "href": "data-code.html#smallmouth-bass-diet-and-electivity-chapter-1",
+    "title": "Data & Code",
+    "section": "Smallmouth Bass diet and electivity (Chapter 1)",
+    "text": "Smallmouth Bass diet and electivity (Chapter 1)\nData and code will be archived here on publication."
+  },
+  {
+    "objectID": "data-code.html#predatorprey-trials-chapter-2",
+    "href": "data-code.html#predatorprey-trials-chapter-2",
+    "title": "Data & Code",
+    "section": "Predator–prey trials (Chapter 2)",
+    "text": "Predator–prey trials (Chapter 2)\nData and code will be archived here on publication."
+  },
+  {
+    "objectID": "data-code.html#crayfish-thermal-preference-and-competition-chapter-3",
+    "href": "data-code.html#crayfish-thermal-preference-and-competition-chapter-3",
+    "title": "Data & Code",
+    "section": "Crayfish thermal preference and competition (Chapter 3)",
+    "text": "Crayfish thermal preference and competition (Chapter 3)\nData and code will be archived here on publication."
+  },
+  {
+    "objectID": "data-code.html#repositories",
+    "href": "data-code.html#repositories",
+    "title": "Data & Code",
+    "section": "Repositories",
+    "text": "Repositories\nGitHub →"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Freshwater invasions rarely happen in isolation. In Oregon rivers, non-native Smallmouth Bass (Micropterus dolomieu) interact with both native Signal Crayfish (Pacifastacus leniusculus) and the expanding non-native Ringed Crayfish (Faxonius neglectus). My dissertation examines these interactions across three linked studies — from diet patterns and prey availability in the field, to predator–prey mechanisms in the laboratory, to how temperature shapes competition between the two crayfish species.\nThe question running through all three chapters: can interactions among non-native species alter the course of a biological invasion, and what does that mean for the native species caught between them?"
+  },
+  {
+    "objectID": "research.html#research-program",
+    "href": "research.html#research-program",
+    "title": "Research",
+    "section": "",
+    "text": "Freshwater invasions rarely happen in isolation. In Oregon rivers, non-native Smallmouth Bass (Micropterus dolomieu) interact with both native Signal Crayfish (Pacifastacus leniusculus) and the expanding non-native Ringed Crayfish (Faxonius neglectus). My dissertation examines these interactions across three linked studies — from diet patterns and prey availability in the field, to predator–prey mechanisms in the laboratory, to how temperature shapes competition between the two crayfish species.\nThe question running through all three chapters: can interactions among non-native species alter the course of a biological invasion, and what does that mean for the native species caught between them?"
+  },
+  {
+    "objectID": "research.html#study-species",
+    "href": "research.html#study-species",
+    "title": "Research",
+    "section": "Study species",
+    "text": "Study species\n\n\nSmallmouth Bass\nMicropterus dolomieu\nNon-native predator established in the Willamette and Umpqua Rivers, and the focal fish species in the diet and predator–prey research (Chapters 1–2).\n\n\nSignal Crayfish\nPacifastacus leniusculus\nNative crayfish of the Pacific Northwest, and the native prey and competitor species examined throughout the dissertation.\n\n\nRinged Crayfish\nFaxonius neglectus\nNon-native crayfish expanding into Oregon’s Umpqua and Rogue basins, and the focal invader in the predator–prey and competition experiments (Chapters 2–3)."
+  },
+  {
+    "objectID": "research.html#dissertation-chapters",
+    "href": "research.html#dissertation-chapters",
+    "title": "Research",
+    "section": "Dissertation chapters",
+    "text": "Dissertation chapters\n\nChapter 1\n\nTrophic ecology of Smallmouth Bass in two Oregon rivers\nResearch questions.\n\nHow important are crayfish, relative to fish and invertebrates, in Smallmouth Bass diets in the Willamette and Umpqua Rivers, and does that pattern change across years?\nIn the Umpqua River, where Signal and Ringed Crayfish co-occur, does Smallmouth Bass show species-specific electivity when diet is compared with local crayfish availability?\nHow variable is diet composition among years within each river?\n\nApproach. Diet samples come from the Willamette River Fish Decadal Assessment and the annual Umpqua Bass Bash, paired with a standardized capture–mark–recapture crayfish availability study across five Umpqua sites, sampled over four days each. Comparing stomach contents with local prey availability allows me to calculate Jacobs’ electivity index (D) and test whether Smallmouth Bass select for Ringed over Signal Crayfish rather than simply consuming whichever is more available.\nStudy area. The Willamette and Umpqua River basins, Oregon — two systems that differ in geomorphology, thermal regime, and crayfish assemblage, providing a natural contrast for these comparisons.\nFigures in preparation: a study-area map, the field sampling design, and site photographs.\n\n\n\nChapter 2\n\nLaboratory predator–prey trials: Smallmouth Bass and crayfish\nWhen native Signal Crayfish and non-native Ringed Crayfish are offered at equal size and density, do Smallmouth Bass show a species-specific feeding preference — and how do temperature and refuge availability change that outcome?\nExperimental design. Trials run in parallel across a six-tank system, each tank a glass aquarium (120 × 40 × 50 cm) divided into three compartments that isolate the predator, a shared arena, and the prey until the trial begins. Each trial offers one Smallmouth Bass a simultaneous choice between a size-matched Signal and Ringed Crayfish. Bass are size-standardized (150–250 mm TL) and individually tracked across a maximum of two trials, with treatment order randomized and a 48-hour washout between trials.\nMeasurements. Predation occurrence, species consumed, attack latency, handling time, and refuge occupancy — recorded on video and used to test whether prey choice tracks optimal foraging (shorter handling time) rather than prey origin alone, and whether warmer water or reduced refuge changes predation rates or the direction of species-specific vulnerability.\nPreliminary observations. Early trials show substantial individual variation in Smallmouth Bass feeding behavior, underscoring the value of repeated trials and standardized conditions before drawing conclusions about species-specific preference.\nFigures in preparation: the experimental tank system and design schematic.\nOnce published, this section will carry: publication · dataset · R code · conference presentation · DOI.\n\n\n\nChapter 3\n\nThermal effects on native–non-native crayfish competition\nResearch questions.\n\nHow does interspecific shelter competition between Signal and Ringed Crayfish vary with relative body size and sex?\nHow does thermal context change activity levels, encounter rates, and the strength of competitive asymmetry between the two species?\nDoes displacement from shelter measurably increase a crayfish’s behavioral exposure?\n\nField component. Umpqua Basin sites are classified into cold (≤18 °C), transitional (18–21 °C), and warm (≥21 °C) reaches using a modeled stream temperature dataset, validated with in-situ loggers, then sampled with standardized baited traps to characterize crayfish coexistence and catch-per-unit-effort by species, size, sex, and molt stage.\nCompetition experiments. A fully factorial design crosses two temperatures (cool 17 °C, warm 23 °C) with two shelter levels — one refuge, forcing direct competition, versus two refuges — for size-matched Signal and Ringed Crayfish pairs, recording shelter dominance, aggression, and displacement over 60-minute video-recorded trials.\nThermal preference trials. Individual crayfish are placed in a temperature-controlled apparatus and allowed to move freely between cool and warm zones, with position tracked on video to quantify preferred temperature, thermal niche breadth, and activity level for each species.\nVideo from both experiments is scored in BORIS, with movement paths extracted using ToxTrac, Fiji/TrackMate, and DeepLabCut.\n   Cool zone  ←—————  Release  —————→  Warm zone\n    (17 °C)          compartment         (23 °C)\n\n  A crayfish enters at the release point and moves freely; position,\n  latency, and channel switches are tracked on video.\nFigures in preparation: the thermal apparatus schematic and site map."
+  },
+  {
+    "objectID": "research.html#methods-and-tools",
+    "href": "research.html#methods-and-tools",
+    "title": "Research",
+    "section": "Methods and tools",
+    "text": "Methods and tools\n\n\n\n\n\n\n\nArea\nMethods and tools\n\n\n\n\nField ecology\nSmallmouth Bass diet sampling, crayfish trapping and hand sampling, habitat and substrate surveys\n\n\nEnvironmental monitoring\nModeled stream temperature (Siegel et al. 2023), in-situ temperature loggers\n\n\nExperimental ecology\nPredator–prey choice trials, thermal-preference trials, interspecific competition trials\n\n\nBehavioral ecology\nVideo recording, BORIS behavioral coding, ToxTrac, Fiji/TrackMate, DeepLabCut\n\n\nQuantitative ecology\nR, generalized and mixed-effects models, Jacobs’ electivity index\n\n\nReproducible science\nQuarto, Git and GitHub, Zotero with Better BibTeX"
   },
   {
     "objectID": "index.html",
@@ -144,14 +130,28 @@
     "href": "index.html#what-i-work-on",
     "title": "Abdullah Alkinani",
     "section": "What I work on",
-    "text": "What I work on\nMy dissertation examines how non-native Smallmouth Bass (Micropterus dolomieu), invasive Ringed Crayfish (Faxonius neglectus), and native Signal Crayfish (Pacifastacus leniusculus) interact in the Willamette and Umpqua River systems, and whether one invader can slow another. The work combines field diet analysis, stable isotopes, mesocosm experiments, and spatial stream network modeling.\nRead more about the research →"
+    "text": "What I work on\nMy dissertation examines ecological interactions among non-native Smallmouth Bass (Micropterus dolomieu), native Signal Crayfish (Pacifastacus leniusculus), and non-native Ringed Crayfish (Faxonius neglectus) in Oregon river systems.\nThe work combines field diet and prey-availability sampling, controlled predator–prey experiments, thermal-preference trials, video-based behavioral analysis, and quantitative ecological methods to test whether interactions among non-native species can alter the course of a biological invasion while affecting the native species caught in between.\nRead more about the research →"
   },
   {
     "objectID": "index.html#currently",
     "href": "index.html#currently",
     "title": "Abdullah Alkinani",
     "section": "Currently",
-    "text": "Currently\n\nCompleting three dissertation chapters; expected graduation March 2027.\nRunning temperature-controlled predation trials in a three-compartment mesocosm system.\nBuilding reproducible analysis pipelines in R and Quarto."
+    "text": "Currently\n\nCompleting the experimental and field components of my PhD dissertation at Oregon State University.\nRunning laboratory predation trials examining Smallmouth Bass interactions with native Signal Crayfish and non-native Ringed Crayfish.\nConducting thermal-preference and competition trials between Signal and Ringed Crayfish using controlled experiments and video-based behavioral analysis.\nExpanding field sampling across the Umpqua River system to characterize crayfish availability and thermal habitat.\nBuilding reproducible ecological data-analysis workflows in R, Quarto, Git, and GitHub."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Abdullah Alkinani",
+    "section": "Research interests",
+    "text": "Research interests\n\nFreshwater Ecology · Biological Invasions · Fisheries Ecology · Crayfish Ecology · Predator–Prey Interactions · Behavioral Ecology · Thermal Ecology · Species Interactions · Aquatic Conservation · Environmental Change"
+  },
+  {
+    "objectID": "index.html#geographic-focus",
+    "href": "index.html#geographic-focus",
+    "title": "Abdullah Alkinani",
+    "section": "Geographic focus",
+    "text": "Geographic focus\nOregon, USA — Willamette River Basin, Umpqua River Basin, and Pacific Northwest freshwater ecosystems.\nSaudi Arabia — Freshwater biodiversity, marine and fisheries ecology, aquatic conservation, and environmental monitoring."
   },
   {
     "objectID": "publications.html",
@@ -161,25 +161,25 @@
     "text": "Generated from a single BibTeX file. Every DOI below resolves to the published record."
   },
   {
-    "objectID": "publications.html#published",
-    "href": "publications.html#published",
+    "objectID": "publications.html#peer-reviewed-publications",
+    "href": "publications.html#peer-reviewed-publications",
     "title": "Publications",
-    "section": "Published",
-    "text": "Published\n\n\nAlkinani, Abdullah. 2026. “Citizen-Science Records Identify Al-Badi’ah and Namar Urban Lakes as Potential Aquarium-Release Hotspots for Non-Native Aquatic Organisms in Riyadh, Saudi Arabia.” ISRG Journal of Agriculture and Veterinary Sciences 3 (4): 58–67. https://doi.org/10.5281/zenodo.21859718.\n\n\nAlkinani, Abdullah Yahya. 2024. “Jazan’s Catch Chronicles: A Statistical Exploration of Lethrinus Nebulous and Acanthocybium Solandri Fishing (2012-2022).” ABC Journal of Advanced Research 13 (1): 1–20. https://doi.org/10.18034/abcjar.v13i1.719.\n\n\nAlkinani, Abdullah Yahya B. 2024. “The Best Solution for Centralized and Decentralized Wastewater Treatment in the Makkah Region in Saudi Arabia.” Arab Journal for Scientific Publishing 7 (65): 51–62. https://doi.org/10.36571/ajsp655.\n\n\nAlkinani, Abdullah Yahya, and Jest Phia Wong. 2024. “Investigating Gut-Brain Interaction: Connection Between Gut Microbes and Neurological Health.” International Journal of Innovative Science and Research Technology 9 (5). https://doi.org/10.38124/ijisrt/IJISRT24MAY1166."
+    "section": "Peer-reviewed publications",
+    "text": "Peer-reviewed publications\n\n\nAlkinani, Abdullah. 2026. “Citizen-Science Records Identify Al-Badi’ah and Namar Urban Lakes as Potential Aquarium-Release Hotspots for Non-Native Aquatic Organisms in Riyadh, Saudi Arabia.” ISRG Journal of Agriculture and Veterinary Sciences 3 (4): 58–67. https://doi.org/10.5281/zenodo.21859718.\n\n\nAlkinani, Abdullah Yahya. 2024. “Jazan’s Catch Chronicles: A Statistical Exploration of Lethrinus Nebulous and Acanthocybium Solandri Fishing (2012-2022).” ABC Journal of Advanced Research 13 (1): 1–20. https://doi.org/10.18034/abcjar.v13i1.719.\n\n\nAlkinani, Abdullah Yahya B. 2024. “The Best Solution for Centralized and Decentralized Wastewater Treatment in the Makkah Region in Saudi Arabia.” Arab Journal for Scientific Publishing 7 (65): 51–62. https://doi.org/10.36571/ajsp655.\n\n\nAlkinani, Abdullah Yahya, and Jest Phia Wong. 2024. “Investigating Gut-Brain Interaction: Connection Between Gut Microbes and Neurological Health.” International Journal of Innovative Science and Research Technology 9 (5). https://doi.org/10.38124/ijisrt/IJISRT24MAY1166."
   },
   {
-    "objectID": "publications.html#in-preparation",
-    "href": "publications.html#in-preparation",
+    "objectID": "publications.html#manuscripts",
+    "href": "publications.html#manuscripts",
     "title": "Publications",
-    "section": "In preparation",
-    "text": "In preparation\n\nChapter 2 manuscript: temperature-dependent predation by Smallmouth Bass on native and non-native crayfish. In preparation."
+    "section": "Manuscripts",
+    "text": "Manuscripts\n\nA coverage-qualified Marine Trophic Index for selected Saudi commercial landing categories: basin-stratified estimates and taxonomic sensitivity. In preparation."
   },
   {
-    "objectID": "publications.html#conference-presentations",
-    "href": "publications.html#conference-presentations",
+    "objectID": "publications.html#research-in-preparation",
+    "href": "publications.html#research-in-preparation",
     "title": "Publications",
-    "section": "Conference presentations",
-    "text": "Conference presentations\nAdd talks and posters here as they happen: title, meeting, location, year."
+    "section": "Research in preparation",
+    "text": "Research in preparation\n\nChapter 1 manuscript: Smallmouth Bass diet, crayfish availability, and electivity in two Oregon rivers. In preparation.\nChapter 2 manuscript: predator–prey trials between Smallmouth Bass and native and non-native crayfish. In preparation.\nChapter 3 manuscript: thermal effects on native–non-native crayfish competition. In preparation."
   },
   {
     "objectID": "publications.html#where-else-to-find-this-list",
@@ -187,5 +187,82 @@
     "title": "Publications",
     "section": "Where else to find this list",
     "text": "Where else to find this list\nORCID · Google Scholar · ResearchGate"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Work that sits alongside the dissertation: analyses, datasets, and tools that are useful on their own."
+  },
+  {
+    "objectID": "projects.html#smallmouth-bass-crayfish-predation",
+    "href": "projects.html#smallmouth-bass-crayfish-predation",
+    "title": "Projects",
+    "section": "Smallmouth Bass × crayfish predation",
+    "text": "Smallmouth Bass × crayfish predation\nLaboratory predator–prey trials quantifying how Smallmouth Bass select between native Signal Crayfish and non-native Ringed Crayfish. Feeds Chapter 2.\nStatus: data collection ongoing."
+  },
+  {
+    "objectID": "projects.html#crayfish-thermal-preference",
+    "href": "projects.html#crayfish-thermal-preference",
+    "title": "Projects",
+    "section": "Crayfish thermal preference",
+    "text": "Crayfish thermal preference\nControlled thermal-gradient trials comparing preferred temperature and activity between Signal and Ringed Crayfish. Feeds Chapter 3.\nStatus: data collection ongoing."
+  },
+  {
+    "objectID": "projects.html#nativenon-native-crayfish-competition",
+    "href": "projects.html#nativenon-native-crayfish-competition",
+    "title": "Projects",
+    "section": "Native–non-native crayfish competition",
+    "text": "Native–non-native crayfish competition\nInterspecific shelter-competition experiments testing how temperature changes dominance and displacement between the two species. Feeds Chapter 3.\nStatus: data collection ongoing."
+  },
+  {
+    "objectID": "projects.html#umpqua-river-field-sampling",
+    "href": "projects.html#umpqua-river-field-sampling",
+    "title": "Projects",
+    "section": "Umpqua River field sampling",
+    "text": "Umpqua River field sampling\nDiet, crayfish availability, and thermal habitat sampling across the Umpqua River basin, pairing Bass Bash stomach collections with standardized crayfish trapping. Feeds Chapter 1.\nStatus: ongoing."
+  },
+  {
+    "objectID": "projects.html#saudi-fisheries-and-marine-trophic-analyses",
+    "href": "projects.html#saudi-fisheries-and-marine-trophic-analyses",
+    "title": "Projects",
+    "section": "Saudi fisheries and marine trophic analyses",
+    "text": "Saudi fisheries and marine trophic analyses\nAnalyses of Saudi national fisheries statistics and marine trophic structure, aimed at describing production trends and their implications for marine resource management and the Blue Economy. See Publications for the associated manuscript."
+  },
+  {
+    "objectID": "projects.html#citizen-science-and-freshwater-invertebrates-in-saudi-arabia",
+    "href": "projects.html#citizen-science-and-freshwater-invertebrates-in-saudi-arabia",
+    "title": "Projects",
+    "section": "Citizen science and freshwater invertebrates in Saudi Arabia",
+    "text": "Citizen science and freshwater invertebrates in Saudi Arabia\nUsing citizen-science records to identify potential aquarium-release hotspots for non-native aquatic organisms in Riyadh’s urban lakes. See Publications."
+  },
+  {
+    "objectID": "projects.html#reproducible-analysis-workflows",
+    "href": "projects.html#reproducible-analysis-workflows",
+    "title": "Projects",
+    "section": "Reproducible analysis workflows",
+    "text": "Reproducible analysis workflows\nR and Quarto pipelines that take raw field data through models, figures, and tables to a rendered document, so an analysis can be rerun end to end.\nStatus: ongoing."
+  },
+  {
+    "objectID": "projects.html#interactive-research-framework",
+    "href": "projects.html#interactive-research-framework",
+    "title": "Projects",
+    "section": "Interactive research framework",
+    "text": "Interactive research framework\nA browser-based framework illustrating the bass–crayfish interaction system studied in this dissertation.\nView the framework"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "I welcome collaborations and conversations related to freshwater ecology, fisheries, biological invasions, crayfish ecology, experimental ecology, and aquatic conservation.\nEmail. alkinana@oregonstate.edu\nDepartment. Fisheries, Wildlife, and Conservation Sciences, Oregon State University, Corvallis, Oregon."
+  },
+  {
+    "objectID": "contact.html#elsewhere",
+    "href": "contact.html#elsewhere",
+    "title": "Contact",
+    "section": "Elsewhere",
+    "text": "Elsewhere\n\nORCID\nGoogle Scholar\nLinkedIn\nResearchGate\nGitHub\nOSU department profile"
   }
 ]

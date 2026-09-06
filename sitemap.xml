@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://abdullahalkinani.org/research.html</loc>
-    <lastmod>2026-09-05T06:30:41.634Z</lastmod>
-  </url>
-  <url>
-    <loc>https://abdullahalkinani.org/projects.html</loc>
-    <lastmod>2026-09-05T05:44:20.021Z</lastmod>
-  </url>
-  <url>
     <loc>https://abdullahalkinani.org/cv.html</loc>
-    <lastmod>2026-09-05T06:30:41.630Z</lastmod>
+    <lastmod>2026-09-06T04:56:28.179Z</lastmod>
   </url>
   <url>
-    <loc>https://abdullahalkinani.org/contact.html</loc>
-    <lastmod>2026-09-05T06:38:59.048Z</lastmod>
+    <loc>https://abdullahalkinani.org/data-code.html</loc>
+    <lastmod>2026-09-06T04:56:28.179Z</lastmod>
+  </url>
+  <url>
+    <loc>https://abdullahalkinani.org/research.html</loc>
+    <lastmod>2026-09-06T04:56:28.179Z</lastmod>
   </url>
   <url>
     <loc>https://abdullahalkinani.org/index.html</loc>
-    <lastmod>2026-09-05T06:38:59.042Z</lastmod>
+    <lastmod>2026-09-06T04:56:28.179Z</lastmod>
   </url>
   <url>
     <loc>https://abdullahalkinani.org/publications.html</loc>
-    <lastmod>2026-09-05T06:26:45.076Z</lastmod>
+    <lastmod>2026-09-06T04:56:28.179Z</lastmod>
+  </url>
+  <url>
+    <loc>https://abdullahalkinani.org/projects.html</loc>
+    <lastmod>2026-09-06T04:56:28.179Z</lastmod>
+  </url>
+  <url>
+    <loc>https://abdullahalkinani.org/contact.html</loc>
+    <lastmod>2026-09-06T04:56:28.179Z</lastmod>
   </url>
 </urlset>
