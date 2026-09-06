@@ -35,26 +35,25 @@ focal fish species in the diet and predator–prey research (Chapters 1–2).
 :::
 
 ::: {.species-card}
-![Illustration of Signal Crayfish, species photo pending](assets/figures/crayfish-illustration-signal.svg){fig-alt="Generic illustrated silhouette of a crayfish, labeled as a placeholder for Signal Crayfish pending a confirmed species photograph."}
+![Signal Crayfish photographed during capture–mark–recapture field sampling in the Umpqua River system.](assets/images/species/signal-crayfish.jpg){fig-alt="Signal Crayfish (Pacifastacus leniusculus) photographed during capture-mark-recapture field sampling in the Umpqua River system, with an external individual marker visible on the carapace."}
 
 **Signal Crayfish**\
 *Pacifastacus leniusculus*
 
 Native crayfish of the Pacific Northwest, and the native prey and competitor
-species examined throughout the dissertation. *Illustration shown; a
-confirmed field photograph will replace this once verified.*
+species examined throughout the dissertation.
 :::
 
 ::: {.species-card}
-![Illustration of Ringed Crayfish, species photo pending](assets/figures/crayfish-illustration-ringed.svg){fig-alt="Generic illustrated silhouette of a crayfish, labeled as a placeholder for Ringed Crayfish pending a confirmed species photograph."}
+![Blue-colored Ringed Crayfish observed in the Willamette River system near Eugene, Oregon.](assets/images/species/ringed-crayfish-blue.jpg){fig-alt="Ringed Crayfish (Faxonius neglectus) showing unusual blue coloration, photographed in the Willamette River system near Eugene, Oregon."}
 
 **Ringed Crayfish**\
 *Faxonius neglectus*
 
 Non-native crayfish expanding into Oregon's Umpqua and Rogue basins, and the
 focal invader in the predator–prey and competition experiments (Chapters 2–3).
-*Illustration shown; a confirmed field photograph will replace this once
-verified.*
+This individual shows unusual blue coloration, occasionally observed in this
+species.
 :::
 :::
 
@@ -112,8 +111,8 @@ carapace length, are then introduced together, and the encounter is
 video-recorded for a standardized observation period under low, standardized
 lighting with disturbance minimized (visual barriers, remote camera control).
 Up to six fish are run in parallel across six independent tanks each morning.
-Individual bass are tracked across a maximum of two trials with a minimum
-48-hour interval between them.
+Individual bass are tracked across repeated standardized trials with
+appropriate recovery intervals between trials.
 
 **Measurements.** The primary outcome is which prey item, if either, is
 consumed first. Secondary behavioral metrics include approach, attack,
@@ -165,9 +164,10 @@ choice, and number of channel switches, examined across four 5-minute
 windows. This is designed as a short-term behavioral-response assay — it
 measures immediate zone choice after a controlled warm/cool input, not a
 long-term equilibrium preferred temperature. Each individual is tested once
-and then moved to a labeled recovery tank. As of this update, 13 trials of a
-planned 30–36 have been completed; this is pilot/protocol-testing data, not
-yet a basis for conclusions about species differences.
+and then moved to a labeled recovery tank. Pilot thermal-choice trials are
+underway to refine the behavioral assay and analysis workflow before final
+analysis; this is pilot/protocol-testing data, not yet a basis for
+conclusions about species differences.
 
 ![Experimental apparatus used for short-term crayfish thermal-choice behavioral trials.](assets/images/lab/thermal-preference-apparatus.jpg){fig-alt="Overhead photo of an empty blue tank divided by a center partition that stops short of one end, with two probes positioned near the far end of each channel."}
 

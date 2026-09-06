@@ -26,7 +26,7 @@ Thermal-choice trials comparing short-term behavioral response to a warm/cool
 input between Signal and Ringed Crayfish. Feeds
 [Chapter 3](research.qmd#thermal-preference-and-shelter-competition-between-native-and-non-native-crayfish).
 
-*Status: pilot trials active (13 of a planned 30–36 completed).*
+*Status: pilot trials underway to refine the behavioral assay and analysis workflow.*
 
 ## Native–non-native crayfish competition
 
